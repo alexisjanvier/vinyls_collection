@@ -1,0 +1,179 @@
+.PHONY: build test help
+.DEFAULT_GOAL := help
+
+ADMIN_NAME ?= sheldon
+ADMIN_EMAIL ?= sheldon@newapp.com
+ADMIN_PASSWORD ?= password
+
+CLIENT_NAME ?= leonard
+CLIENT_EMAIL ?= leonard@newapp.com
+CLIENT_PASSWORD ?= supadupa42!
+
+help:
+	@grep -P '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | sort | awk 'BEGIN {FS = ":.*?## "}; {printf "\033[36m%-30s\033[0m %s\n", $$1, $$2}'
+
+# Initialization ===============================================================
+copy-conf: ## Initialize the configuration files by copying the *''-dist" versions (does not override existing config)
+	@cp -n ./config/development-dist.js ./config/development.js | true
+
+install: copy-conf ## Install npm dependencies for the api, admin, and frontend apps
+	@echo "Installing Node dependencies"
+	@npm install
+	@echo "Installing Selenium server"
+	@./node_modules/.bin/selenium-standalone install --version=2.50.1 --drivers.chrome.version=2.21
+
+# Deployment ===================================================================
+clear-build:  ## Remove precedent build files
+	@rm -rf ./build/*
+
+build: clear-build ## Build all front applications defined with webpack
+	@./node_modules/.bin/webpack --progress
+
+clean: ## Remove only files ignored by Git
+	git clean --force -d -X
+
+install-aws: ## Install the aws cli
+	curl "https://s3.amazonaws.com/aws-cli/awscli-bundle.zip" -o "awscli-bundle.zip"
+	unzip awscli-bundle.zip
+	sudo ./awscli-bundle/install -i /usr/local/aws -b /usr/local/bin/aws
+	rm -rf ./awscli-bundle/ awscli-bundle.zip
+	aws configure
+
+install-prod: ## Install npm dependencies for the api, admin, and frontend apps in production environment
+	@echo "Installing Node dependencies"
+	@npm install --production
+	@echo "Copy production conf"
+	@cp -n ./config/production-dist.js ./config/production.js | true
+
+setup-staging: ## Setup the staging environment
+	fab --config=.fabricrc-staging setup_api check
+
+setup-prod: ## Setup the production environment
+	fab --config=.fabricrc setup_api check
+
+deploy-staging-api: ## Deploy the API in staging environment
+	fab --config=.fabricrc-staging deploy_api
+
+deploy-staging-frontend: ## Deploy the frontend in staging environment
+	fab --config=.fabricrc-staging deploy_static
+
+deploy-staging: deploy-staging-api deploy-staging-frontend ## Deploy the staging environment
+
+deploy-prod-api: ## Deploy the API in production environment
+	fab --config=.fabricrc deploy_api
+
+deploy-prod-frontend: ## Deploy the frontend in production environment
+	fab --config=.fabricrc deploy_static
+
+deploy-prod: deploy-prod-api deploy-prod-frontend ## Deploy the production environment
+
+# Development ==================================================================
+run-dev: ## Run all applications in development environment (using webpack-dev-server)
+	@node_modules/.bin/pm2 start ./config/pm2_servers/dev.json
+stop-dev: ## Stop all applications in development environment
+	@node_modules/.bin/pm2 delete ./config/pm2_servers/dev.json
+
+restart-frontend-dev: ## Restart all frontend applications in development environment
+	@node_modules/.bin/pm2 restart bpm_frontend-dev
+	@echo "Webpack dev restarted"
+restart-api-dev: ## Restart the API in development environment
+	@node_modules/.bin/pm2 restart bpm_api-dev
+	@echo "API dev restarted"
+
+run-api: ## Starts the API (you may define the NODE_ENV)
+	@node ./src/api/index.js
+run-frontend: ## Starts the frontend applications using webpack-dev-server (you may define the NODE_ENV)
+	@./node_modules/.bin/webpack-dev-server  \
+		--no-info \
+		--colors \
+		--devtool cheap-module-inline-source-map \
+		--hot  \
+		--inline
+
+servers-monitoring: ## Get an overview of your processes with PM2
+	@node_modules/.bin/pm2 monit
+servers-list: ## List the processes managed by PM2
+	@node_modules/.bin/pm2 list
+servers-stop-all: ## Stop all processes with PM2
+	@node_modules/.bin/pm2 stop all
+servers-clear-all: ## Delete all processes and flush the logs in PM2
+	@node_modules/.bin/pm2 stop all
+	@node_modules/.bin/pm2 delete all
+	@node_modules/.bin/pm2 flush
+
+log-frontend-dev: ## Display the logs of the frontend applications with PM2
+	@node_modules/.bin/pm2 logs bpm_frontend-dev
+log-api-dev: ## Display the logs of the API with PM2
+	@node_modules/.bin/pm2 logs bpm_api-dev
+
+# Tests ========================================================================
+build-test: ## Build all front applications defined with webpack for test environment
+	@NODE_ENV=test make build
+
+test-api-unit: ## Run the API unit tests with mocha
+	@NODE_ENV=test NODE_PORT=3010 ./node_modules/.bin/mocha --require "./babel-transformer" --require=co-mocha --recursive ./src/api/
+
+test-api-functional: reset-test-database ## Run the API functional tests with mocha
+	@NODE_ENV=test NODE_PORT=3010 ./node_modules/.bin/mocha --require "./babel-transformer" --require=co-mocha --recursive ./e2e/api
+
+test-frontend-unit: ## Run the frontend applications unit tests with mocha
+	@NODE_ENV=test ./node_modules/.bin/mocha --compilers="css:./webpack/null-compiler,js:babel-core/register" --recursive ./src/frontend/js/**/*.spec.js
+
+test-isomorphic-unit: ## Run the isomorphic directory unit tests with mocha
+	@NODE_ENV=test ./node_modules/.bin/mocha --compilers="js:babel-core/register" --recursive ./src/isomorphic/{,**/}*.spec.js
+
+test-frontend-functional: reset-test-database load-test-fixtures ## Run the frontend applications functional tests with nightwatch
+	@make build-test
+	@node_modules/.bin/pm2 start ./config/pm2_servers/test.json
+	@node_modules/.bin/nightwatch --config="./e2e/frontend/nightwatch.json"
+	@node_modules/.bin/pm2 delete ./config/pm2_servers/test.json
+
+load-test-fixtures: ## Initialize the test database with fixtures
+	@NODE_ENV=test ./node_modules/.bin/babel-node ./bin/loadFixtures.js
+
+test: ## Run all tests
+	@cp -n ./config/test-dist.js ./config/test.js | true
+	make test-frontend-unit
+	make test-api-unit
+	# TODO: restore when implemented
+	# make test-isomorphic-unit
+	make test-api-functional
+	make test-frontend-functional
+
+reset-test-database: ## Reset the test database and run all migrations
+	@NODE_ENV=test ./node_modules/.bin/db-migrate \
+		--migrations-dir=./src/api/lib/migrations \
+		--config=config/database.js \
+		-e api \
+		reset
+	@NODE_ENV=test ./node_modules/.bin/db-migrate \
+		--migrations-dir=./src/api/lib/migrations \
+		--config=config/database.js \
+		-e api \
+		up
+
+# Migrations ===================================================================
+migrate: ## Migrate the database defined in the configuration (you may define the NODE_ENV)
+	@./node_modules/.bin/db-migrate \
+		--migrations-dir=./src/api/lib/migrations \
+		--config=config/database.js \
+		-e api \
+		up
+
+create-migration: ## Create a new migration (you may define the NODE_ENV to select a specific configuration)
+	@./node_modules/.bin/db-migrate \
+		--migrations-dir=./src/api/lib/migrations \
+		--config=config/database.js \
+		-e api \
+		create migration
+
+load-fixtures: ## Load fixtures in the database (you may define the NODE_ENV to select a specific configuration)
+	./node_modules/.bin/babel-node ./bin/loadFixtures.js
+
+# Binaries =====================================================================
+create-admin: ## Create a new admin user in the database (you may define the NODE_ENV to select a specific configuration)
+	./node_modules/babel-cli/bin/babel-node.js ./bin/createAdmin.js ${ADMIN_NAME} ${ADMIN_EMAIL} ${ADMIN_PASSWORD}
+
+create-client: ## Create a new user in the database (you may define the NODE_ENV to select a specific configuration)
+	# TODO: ensure we create a simple user and not an admin
+	./node_modules/babel-cli/bin/babel-node.js ./bin/createAdmin.js ${CLIENT_NAME} ${CLIENT_EMAIL} ${CLIENT_PASSWORD}

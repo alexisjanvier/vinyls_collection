@@ -1,0 +1,10 @@
+node_modules/*
+*.PID
+config/development.js
+config/production.js
+config/test.js
+build
+fabfile.pyc
+selenium-debug.log
+e2e/**/reports
+.tern-project
