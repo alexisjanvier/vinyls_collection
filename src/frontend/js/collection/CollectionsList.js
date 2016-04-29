@@ -24,7 +24,7 @@ class CollectionList extends Component {
                 <ul className="list-group">
                     {collections.map(collection =>
                         <li key={collection.id} className="list-group-item">
-                            <Link className="nav-link" to="/collection/{collection.id}">
+                            <Link className="nav-link" to={`/collection/${collection.id}`}>
                                 { collection.name } ({collection.albums.length} albums)
                             </Link>
                         </li>

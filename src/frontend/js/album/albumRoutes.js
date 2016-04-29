@@ -3,7 +3,7 @@ import AlbumCreationPage from './AlbumCreationPage';
 
 export default [
     {
-        path: '/album/:id',
+        path: '/album/:collectionId/:albumId',
         component: AlbumPage,
     },
     {
