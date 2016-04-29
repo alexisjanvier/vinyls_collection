@@ -1,6 +1,7 @@
 import { LOCATION_CHANGE } from 'react-router-redux';
 
 import { GET_COLLECTIONS__FETCH_FULFILLED, GET_COLLECTIONS__FETCH_REJECTED } from './collectionActions';
+import { ALBUM_FORM_SUBMIT__FETCH_FULFILLED } from '../album/albumActions';
 
 const initialState = {
     all: null,

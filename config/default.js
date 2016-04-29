@@ -61,8 +61,11 @@ module.exports = {
             },
         },
         frontend: {
-            api_url: apiUrl,
+            api_url: 'http://localhost:3000',
             enableDevTools: true,
+        },
+        admin: {
+            api_url: 'http://localhost:3000',
         },
     },
     babel_ignore: /node_modules\/(?!admin-config|fakerest)/,

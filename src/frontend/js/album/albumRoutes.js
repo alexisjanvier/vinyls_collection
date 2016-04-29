@@ -7,7 +7,7 @@ export default [
         component: AlbumPage,
     },
     {
-        path: '/add-album',
+        path: '/add-album/:collectionId',
         component: AlbumCreationPage,
     },
 ];

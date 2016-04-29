@@ -17,14 +17,14 @@ class CollectionPage extends Component {
                 </h1>
                 <ul className="list-group">
                 { collection.albums ? collection.albums.map(album =>
-                    <li key={collection.id} className="list-group-item">
+                    <li key={album.id} className="list-group-item">
                         <Link className="nav-link" to={`/album/${collection.id}/${album.id}`}>
                             { album.title }
                         </Link>
                     </li>
                 ) : <li>Aucun alblum dans cette collection</li>}
                 </ul>
-                <p><Link className="nav-link" to="/add-album">
+                <p><Link className="nav-link" to={`/add-album/${collection.id}`}>
                     Ajouter un album
                 </Link></p>
             </div>
