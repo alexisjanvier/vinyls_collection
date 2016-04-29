@@ -8,7 +8,7 @@ export default {
     entry: {
         index: [
             `${__dirname}/../src/frontend/js/main.js`,
-            `${__dirname}/../src/frontend/css/main.scss`,
+            `${__dirname}/../src/frontend/sass/main.scss`,
         ],
     },
     module: {

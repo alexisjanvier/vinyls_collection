@@ -3,11 +3,8 @@ var apiUrl = 'http://localhost:' + apiPort; // eslint-disable-line no-var
 var frontendUrl = 'http://localhost:8080'; // eslint-disable-line no-var
 
 module.exports = {
-    appName: 'New App',
+    appName: 'Vinyl collections',
     apps: {
-        admin: {
-            api_url: apiUrl + '/admin/',
-        },
         api: {
             allowOrigin: [frontendUrl],
             cookies: {
@@ -25,22 +22,9 @@ module.exports = {
                 password: 'DB_PASSWORD',
                 database: 'DB_NAME',
             },
-            healthcare: {
-                internetUrl: 'http://google.com',
-                apiUrl: apiUrl + '/api/products',
-            },
             logs: {
                 app: { Console: { timestamp: true, colorize: true, level: 'error' } },
                 http: {},
-            },
-            mails: {
-                defaultOptions: {
-                    emitter: { name: 'marmelab', address: 'info@marmelab.com' },
-                },
-                transporter: {
-                    transport: 'console',
-                    transport_options: {},
-                },
             },
             port: apiPort,
             security: {
@@ -77,7 +61,7 @@ module.exports = {
             },
         },
         frontend: {
-            api_url: apiUrl + '/api',
+            api_url: apiUrl,
             enableDevTools: true,
         },
     },

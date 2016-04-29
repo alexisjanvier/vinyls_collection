@@ -4,6 +4,8 @@ import { connect } from 'react-redux';
 import { RouteTransition } from 'react-router-transition';
 import HelmetTitle from './HelmetTitle';
 
+import CollectionsList from '../collection/CollectionsList';
+
 export class App extends Component {
 
     render() {
@@ -28,7 +30,9 @@ export class App extends Component {
                             style={{ position: 'relative' }}
                         >
                             <div style={{ position: 'absolute', width: '100%' }}>
-                                {children}
+                                {children === null ?
+                                    <CollectionsList />
+                                : children}
                             </div>
                         </RouteTransition>
                     </div>

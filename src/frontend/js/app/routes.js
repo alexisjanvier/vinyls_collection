@@ -1,5 +1,8 @@
 import App from './App';
 
+import albumRoutes from '../album/albumRoutes';
+import collectionRoutes from '../collection/collectionRoutes';
+
 export default () => {
     return {
         component: 'div',
@@ -7,7 +10,8 @@ export default () => {
             path: '/',
             component: App,
             childRoutes: [
-
+                ...albumRoutes,
+                ...collectionRoutes,
             ],
         }],
     };
