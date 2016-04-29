@@ -19,11 +19,17 @@ class CollectionList extends Component {
         return (
             <div className="container p-t-3">
                 <h1 className="text-xs-center">
-                    Liste des collections
+                    Les collections
                 </h1>
-                <p><Link className="nav-link" to="/collection/tadam">
-                    Une collection
-                </Link></p>
+                <ul className="list-group">
+                    {collections.map(collection =>
+                        <li key={collection.id} className="list-group-item">
+                            <Link className="nav-link" to="/collection/{collection.id}">
+                                { collection.name } ({collection.albums.length} albums)
+                            </Link>
+                        </li>
+                    )}
+                </ul>
             </div>
         );
     }
