@@ -3,9 +3,12 @@ import { routerMiddleware } from 'react-router-redux';
 import { applyMiddleware, compose, createStore } from 'redux';
 import thunkMiddleware from 'redux-thunk';
 
+import fetchMiddleware from './fetchMiddleware';
+
 export default function configureStore(rootReducer, initialState) {
     let enhancers = [
         applyMiddleware(
+            fetchMiddleware(require('isomorphic-fetch')),
             routerMiddleware(hashHistory),
             thunkMiddleware
         ),

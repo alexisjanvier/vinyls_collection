@@ -2,10 +2,10 @@ import { routerReducer } from 'react-router-redux';
 import { combineReducers } from 'redux';
 import { reducer as form } from 'redux-form';
 
-import collection from '../collection/collectionReducer';
+import collections from '../collection/collectionReducer';
 
 const rootReducer = combineReducers({
-    collection,
+    collections,
     form,
     routing: routerReducer,
 });
