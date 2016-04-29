@@ -25,37 +25,7 @@ export class App extends Component {
                 <HelmetTitle />
                 <div className="row">
                     <nav className="navbar navbar-fixed-top navbar-dark bg-primary">
-                        <a className="navbar-brand" href="#">New App</a>
-                        <ul className="nav navbar-nav">
-                            <li className="nav-item">
-                                <Link className="nav-link" to="/">Home</Link>
-                            </li>
-                            <li className="nav-item">
-                                <Link className="nav-link" to="/products">Products</Link>
-                            </li>
-                            <li className="nav-item">
-                                <Link className="nav-link" to="/orders">Orders</Link>
-                            </li>
-                        </ul>
-                        {user && user.authenticated &&
-                            <ul className="nav navbar-nav pull-xs-right">
-                                <li className="nav-item dropdown">
-                                    <a
-                                        className="nav-link dropdown-toggle"
-                                        data-toggle="dropdown"
-                                        href="#"
-                                        role="button"
-                                        aria-haspopup="true"
-                                        aria-expanded="false"
-                                    >
-                                        {user.email}
-                                    </a>
-                                    <div className="dropdown-menu">
-                                        <a className="dropdown-item" onClick={signOut}>Sign out</a>
-                                    </div>
-                                </li>
-                            </ul>
-                        }
+                        <a className="navbar-brand" href="#">Vinyls collections</a>
                     </nav>
                 </div>
                 <div className="row">
@@ -72,9 +42,6 @@ export class App extends Component {
                                 {children}
                             </div>
                         </RouteTransition>
-                    </div>
-                    <div className="col-xs-12 col-md-2 col-lg-3">
-                        <ShoppingCart />
                     </div>
                 </div>
             </div>

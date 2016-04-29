@@ -1,44 +1,23 @@
 {
-    "products" : [
+    "collections" : [
         {
-            "reference": "abc",
-            "width": 30,
-            "height": 40,
-            "price": 3.40,
-            "thumbnail" : "http://lorempixel.com/400/400/",
-            "image" : "http://lorempixel.com/400/400/",
-            "description": "John the zoo",
-            "stock": 10
+            "name": "collection 1"
         },
         {
-            "reference": "efg",
-            "width": 30,
-            "height": 40,
-            "price": 3.40,
-            "thumbnail" : "http://lorempixel.com/400/400/",
-            "image" : "http://lorempixel.com/400/400/",
-            "description": "Frank on toilet",
-            "stock": 10
-        },
-        {
-            "reference": "hij",
-            "width": 30,
-            "height": 40,
-            "price": 3.40,
-            "thumbnail" : "http://lorempixel.com/400/400/",
-            "image" : "http://lorempixel.com/400/400/",
-            "description": "Miles in the kitchen",
-            "stock": 10
+            "name": "collection 2"
         }
     ],
-    "users" : [
+    "albums" : [
         {
-            "email": "user1@marmelab.io",
-            "password": "password"
-        },
-        {
-            "email": "user2@marmelab.io",
-            "password": "password"
+            "title": "Blue Trane",
+            "artist": ["John Coltrane"],
+            "label": ["Blue Note"],
+            "cover_url": {
+                "thumbnail": "http://ecx.images-amazon.com/images/I/51OHUeofS3L._SL75_.jpg",
+                "normal": "http://ecx.images-amazon.com/images/I/51OHUeofS3L._SL160_.jpg",
+                "hr": "http://ecx.images-amazon.com/images/I/51OHUeofS3L.jpg"
+            },
+            "collection": "collection 1"
         }
     ]
 }

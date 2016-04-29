@@ -1,0 +1,3840 @@
+[{
+    "ASIN": ["B0000A5A0T"],
+    "DetailPageURL": ["http://www.amazon.com/Blue-Train-John-Coltrane/dp/B0000A5A0T%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB0000A5A0T"],
+    "ItemLinks": [{
+        "ItemLink": [{
+            "Description": ["Technical Details"],
+            "URL": ["http://www.amazon.com/Blue-Train-John-Coltrane/dp/tech-data/B0000A5A0T%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB0000A5A0T"]
+        }, {
+            "Description": ["Add To Baby Registry"],
+            "URL": ["http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB0000A5A0T%26SubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB0000A5A0T"]
+        }, {
+            "Description": ["Add To Wedding Registry"],
+            "URL": ["http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB0000A5A0T%26SubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB0000A5A0T"]
+        }, {
+            "Description": ["Add To Wishlist"],
+            "URL": ["http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB0000A5A0T%26SubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB0000A5A0T"]
+        }, {
+            "Description": ["Tell A Friend"],
+            "URL": ["http://www.amazon.com/gp/pdp/taf/B0000A5A0T%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB0000A5A0T"]
+        }, {
+            "Description": ["All Customer Reviews"],
+            "URL": ["http://www.amazon.com/review/product/B0000A5A0T%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB0000A5A0T"]
+        }, {
+            "Description": ["All Offers"],
+            "URL": ["http://www.amazon.com/gp/offer-listing/B0000A5A0T%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB0000A5A0T"]
+        }]
+    }],
+    "SmallImage": [{
+        "URL": ["http://ecx.images-amazon.com/images/I/51%2B53sYbnlL._SL75_.jpg"],
+        "Height": [{
+            "_": "75",
+            "$": {
+                "Units": "pixels"
+            }
+        }],
+        "Width": [{
+            "_": "75",
+            "$": {
+                "Units": "pixels"
+            }
+        }]
+    }],
+    "MediumImage": [{
+        "URL": ["http://ecx.images-amazon.com/images/I/51%2B53sYbnlL._SL160_.jpg"],
+        "Height": [{
+            "_": "160",
+            "$": {
+                "Units": "pixels"
+            }
+        }],
+        "Width": [{
+            "_": "159",
+            "$": {
+                "Units": "pixels"
+            }
+        }]
+    }],
+    "LargeImage": [{
+        "URL": ["http://ecx.images-amazon.com/images/I/51%2B53sYbnlL.jpg"],
+        "Height": [{
+            "_": "500",
+            "$": {
+                "Units": "pixels"
+            }
+        }],
+        "Width": [{
+            "_": "497",
+            "$": {
+                "Units": "pixels"
+            }
+        }]
+    }],
+    "ImageSets": [{
+        "ImageSet": [{
+            "$": {
+                "Category": "variant"
+            },
+            "SwatchImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51BO%2BeGkzXL._SL30_.jpg"],
+                "Height": [{
+                    "_": "26",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "30",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "SmallImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51BO%2BeGkzXL._SL75_.jpg"],
+                "Height": [{
+                    "_": "65",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "ThumbnailImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51BO%2BeGkzXL._SL75_.jpg"],
+                "Height": [{
+                    "_": "65",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "TinyImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51BO%2BeGkzXL._SL110_.jpg"],
+                "Height": [{
+                    "_": "95",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "110",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "MediumImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51BO%2BeGkzXL._SL160_.jpg"],
+                "Height": [{
+                    "_": "139",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "160",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "LargeImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51BO%2BeGkzXL.jpg"],
+                "Height": [{
+                    "_": "433",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "500",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "HiResImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/61SqFTiI0JL.jpg"],
+                "Height": [{
+                    "_": "917",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "1058",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }]
+        }, {
+            "$": {
+                "Category": "primary"
+            },
+            "SwatchImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51%2B53sYbnlL._SL30_.jpg"],
+                "Height": [{
+                    "_": "30",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "30",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "SmallImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51%2B53sYbnlL._SL75_.jpg"],
+                "Height": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "ThumbnailImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51%2B53sYbnlL._SL75_.jpg"],
+                "Height": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "TinyImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51%2B53sYbnlL._SL110_.jpg"],
+                "Height": [{
+                    "_": "110",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "109",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "MediumImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51%2B53sYbnlL._SL160_.jpg"],
+                "Height": [{
+                    "_": "160",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "159",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "LargeImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51%2B53sYbnlL.jpg"],
+                "Height": [{
+                    "_": "500",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "497",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "HiResImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/71J415ZAjNL.jpg"],
+                "Height": [{
+                    "_": "1050",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "1043",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }]
+        }]
+    }],
+    "ItemAttributes": [{
+        "Artist": ["John Coltrane"],
+        "AudienceRating": ["NR (Not Rated)"],
+        "Binding": ["Audio CD"],
+        "EAN": ["0724349532625"],
+        "EANList": [{
+            "EANListElement": ["0724349532625"]
+        }],
+        "Format": ["Extra tracks", "Original recording reissued", "Original recording remastered"],
+        "ItemDimensions": [{
+            "Height": [{
+                "_": "47",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }],
+            "Length": [{
+                "_": "488",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }],
+            "Weight": [{
+                "_": "19",
+                "$": {
+                    "Units": "hundredths-pounds"
+                }
+            }],
+            "Width": [{
+                "_": "559",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }]
+        }],
+        "Label": ["Blue Note"],
+        "Languages": [{
+            "Language": [{
+                "Name": ["English"],
+                "Type": ["Original Language"]
+            }, {
+                "Name": ["English"],
+                "Type": ["Unknown"]
+            }]
+        }],
+        "Manufacturer": ["Blue Note"],
+        "NumberOfDiscs": ["1"],
+        "NumberOfItems": ["1"],
+        "PackageDimensions": [{
+            "Height": [{
+                "_": "50",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }],
+            "Length": [{
+                "_": "560",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }],
+            "Weight": [{
+                "_": "20",
+                "$": {
+                    "Units": "hundredths-pounds"
+                }
+            }],
+            "Width": [{
+                "_": "450",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }]
+        }],
+        "PackageQuantity": ["1"],
+        "ProductGroup": ["Music"],
+        "ProductTypeName": ["ABIS_MUSIC"],
+        "PublicationDate": ["2003"],
+        "Publisher": ["Blue Note"],
+        "ReleaseDate": ["2003-08-05"],
+        "Studio": ["Blue Note"],
+        "Title": ["Blue Train"],
+        "UPC": ["724349532625"],
+        "UPCList": [{
+            "UPCListElement": ["724349532625"]
+        }]
+    }],
+    "OfferSummary": [{
+        "LowestNewPrice": [{
+            "Amount": ["393"],
+            "CurrencyCode": ["USD"],
+            "FormattedPrice": ["$3.93"]
+        }],
+        "LowestUsedPrice": [{
+            "Amount": ["194"],
+            "CurrencyCode": ["USD"],
+            "FormattedPrice": ["$1.94"]
+        }],
+        "TotalNew": ["112"],
+        "TotalUsed": ["40"],
+        "TotalCollectible": ["0"],
+        "TotalRefurbished": ["0"]
+    }],
+    "Offers": [{
+        "TotalOffers": ["2"],
+        "TotalOfferPages": ["1"],
+        "MoreOffersUrl": ["http://www.amazon.com/gp/offer-listing/B0000A5A0T%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB0000A5A0T"],
+        "Offer": [{
+            "OfferAttributes": [{
+                "Condition": ["New"]
+            }],
+            "OfferListing": [{
+                "OfferListingId": ["dpkYVBBA%2FJILiYyXnsYSUd%2BrzB5tYuG7t4ddaozvUbrB0j1Dr28DH5eHizAHiBtBfeFobv4EqFFGvKjI8m2l7DlJc5nsPDCLHNkPvpNNFLF1eG%2F4D%2BOC%2Bn04dHq62I4qHuZQa2oiJMPJMNWcoa%2F%2Bb7kbHBxnRJOn"],
+                "Price": [{
+                    "Amount": ["393"],
+                    "CurrencyCode": ["USD"],
+                    "FormattedPrice": ["$3.93"]
+                }],
+                "Availability": ["Usually ships in 1-2 business days"],
+                "AvailabilityAttributes": [{
+                    "AvailabilityType": ["now"],
+                    "MinimumHours": ["24"],
+                    "MaximumHours": ["48"]
+                }],
+                "IsEligibleForSuperSaverShipping": ["0"],
+                "IsEligibleForPrime": ["0"]
+            }]
+        }, {
+            "OfferAttributes": [{
+                "Condition": ["Used"]
+            }],
+            "OfferListing": [{
+                "OfferListingId": ["dpkYVBBA%2FJILiYyXnsYSUd%2BrzB5tYuG7xpiFJ8j6W0fWsUDTqGJdz1CDGV2SS4E5TCkfUTbFKuqXGmC%2BfgjqnHBOYbYmaiVB6Cm%2BlufEMxHGsXAuoYZacSks%2B%2Fw20MbX3b74gzFHI6uvHJgNpbP5NQ%3D%3D"],
+                "Price": [{
+                    "Amount": ["194"],
+                    "CurrencyCode": ["USD"],
+                    "FormattedPrice": ["$1.94"]
+                }],
+                "Availability": ["Usually ships in 1-2 business days"],
+                "AvailabilityAttributes": [{
+                    "AvailabilityType": ["now"],
+                    "MinimumHours": ["24"],
+                    "MaximumHours": ["48"]
+                }],
+                "IsEligibleForSuperSaverShipping": ["0"],
+                "IsEligibleForPrime": ["0"]
+            }]
+        }]
+    }]
+}, {
+    "ASIN": ["B00HG30CD4"],
+    "DetailPageURL": ["http://www.amazon.com/Blue-Train-LP-John-Coltrane/dp/B00HG30CD4%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00HG30CD4"],
+    "ItemLinks": [{
+        "ItemLink": [{
+            "Description": ["Technical Details"],
+            "URL": ["http://www.amazon.com/Blue-Train-LP-John-Coltrane/dp/tech-data/B00HG30CD4%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00HG30CD4"]
+        }, {
+            "Description": ["Add To Baby Registry"],
+            "URL": ["http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00HG30CD4%26SubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00HG30CD4"]
+        }, {
+            "Description": ["Add To Wedding Registry"],
+            "URL": ["http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00HG30CD4%26SubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00HG30CD4"]
+        }, {
+            "Description": ["Add To Wishlist"],
+            "URL": ["http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00HG30CD4%26SubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00HG30CD4"]
+        }, {
+            "Description": ["Tell A Friend"],
+            "URL": ["http://www.amazon.com/gp/pdp/taf/B00HG30CD4%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00HG30CD4"]
+        }, {
+            "Description": ["All Customer Reviews"],
+            "URL": ["http://www.amazon.com/review/product/B00HG30CD4%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00HG30CD4"]
+        }, {
+            "Description": ["All Offers"],
+            "URL": ["http://www.amazon.com/gp/offer-listing/B00HG30CD4%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00HG30CD4"]
+        }]
+    }],
+    "SmallImage": [{
+        "URL": ["http://ecx.images-amazon.com/images/I/51OHUeofS3L._SL75_.jpg"],
+        "Height": [{
+            "_": "75",
+            "$": {
+                "Units": "pixels"
+            }
+        }],
+        "Width": [{
+            "_": "75",
+            "$": {
+                "Units": "pixels"
+            }
+        }]
+    }],
+    "MediumImage": [{
+        "URL": ["http://ecx.images-amazon.com/images/I/51OHUeofS3L._SL160_.jpg"],
+        "Height": [{
+            "_": "160",
+            "$": {
+                "Units": "pixels"
+            }
+        }],
+        "Width": [{
+            "_": "160",
+            "$": {
+                "Units": "pixels"
+            }
+        }]
+    }],
+    "LargeImage": [{
+        "URL": ["http://ecx.images-amazon.com/images/I/51OHUeofS3L.jpg"],
+        "Height": [{
+            "_": "500",
+            "$": {
+                "Units": "pixels"
+            }
+        }],
+        "Width": [{
+            "_": "500",
+            "$": {
+                "Units": "pixels"
+            }
+        }]
+    }],
+    "ImageSets": [{
+        "ImageSet": [{
+            "$": {
+                "Category": "variant"
+            },
+            "SwatchImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/61laWy0CHxL._SL30_.jpg"],
+                "Height": [{
+                    "_": "30",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "30",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "SmallImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/61laWy0CHxL._SL75_.jpg"],
+                "Height": [{
+                    "_": "74",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "ThumbnailImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/61laWy0CHxL._SL75_.jpg"],
+                "Height": [{
+                    "_": "74",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "TinyImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/61laWy0CHxL._SL110_.jpg"],
+                "Height": [{
+                    "_": "109",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "110",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "MediumImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/61laWy0CHxL._SL160_.jpg"],
+                "Height": [{
+                    "_": "158",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "160",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "LargeImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/61laWy0CHxL.jpg"],
+                "Height": [{
+                    "_": "494",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "500",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "HiResImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/91rQ3WJdmLL.jpg"],
+                "Height": [{
+                    "_": "1903",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "1925",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }]
+        }, {
+            "$": {
+                "Category": "primary"
+            },
+            "SwatchImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51OHUeofS3L._SL30_.jpg"],
+                "Height": [{
+                    "_": "30",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "30",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "SmallImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51OHUeofS3L._SL75_.jpg"],
+                "Height": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "ThumbnailImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51OHUeofS3L._SL75_.jpg"],
+                "Height": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "TinyImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51OHUeofS3L._SL110_.jpg"],
+                "Height": [{
+                    "_": "110",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "110",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "MediumImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51OHUeofS3L._SL160_.jpg"],
+                "Height": [{
+                    "_": "160",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "160",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "LargeImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51OHUeofS3L.jpg"],
+                "Height": [{
+                    "_": "500",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "500",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "HiResImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/71nsM1knjQL.jpg"],
+                "Height": [{
+                    "_": "1500",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "1500",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }]
+        }]
+    }],
+    "ItemAttributes": [{
+        "Artist": ["John Coltrane"],
+        "Binding": ["Vinyl"],
+        "Brand": ["Coltrane, John"],
+        "CatalogNumberList": [{
+            "CatalogNumberListElement": ["Unknown", "B002005901", "3771410", "602537714100", "LPB002005901"]
+        }],
+        "EAN": ["0602537714100"],
+        "EANList": [{
+            "EANListElement": ["0602537714100"]
+        }],
+        "Genre": ["Jazz - General"],
+        "IsAdultProduct": ["0"],
+        "ItemDimensions": [{
+            "Height": [{
+                "_": "24",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }],
+            "Length": [{
+                "_": "1228",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }],
+            "Weight": [{
+                "_": "53",
+                "$": {
+                    "Units": "hundredths-pounds"
+                }
+            }],
+            "Width": [{
+                "_": "1224",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }]
+        }],
+        "Label": ["Blue Note"],
+        "Languages": [{
+            "Language": [{
+                "Name": ["English"],
+                "Type": ["Unknown"]
+            }]
+        }],
+        "ListPrice": [{
+            "Amount": ["1998"],
+            "CurrencyCode": ["USD"],
+            "FormattedPrice": ["$19.98"]
+        }],
+        "Manufacturer": ["Blue Note"],
+        "MPN": ["LPB002005901"],
+        "NumberOfDiscs": ["1"],
+        "NumberOfItems": ["1"],
+        "PackageDimensions": [{
+            "Height": [{
+                "_": "110",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }],
+            "Length": [{
+                "_": "1450",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }],
+            "Weight": [{
+                "_": "85",
+                "$": {
+                    "Units": "hundredths-pounds"
+                }
+            }],
+            "Width": [{
+                "_": "1270",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }]
+        }],
+        "PackageQuantity": ["1"],
+        "PartNumber": ["LPB002005901"],
+        "ProductGroup": ["Music"],
+        "ProductTypeName": ["ABIS_MUSIC"],
+        "PublicationDate": ["2014"],
+        "Publisher": ["Blue Note"],
+        "ReleaseDate": ["2014-03-25"],
+        "RunningTime": [{
+            "_": "33",
+            "$": {
+                "Units": "unknown-units"
+            }
+        }],
+        "Studio": ["Blue Note"],
+        "Title": ["Blue Train [LP]"],
+        "UPC": ["602537714100"],
+        "UPCList": [{
+            "UPCListElement": ["602537714100"]
+        }]
+    }],
+    "OfferSummary": [{
+        "LowestNewPrice": [{
+            "Amount": ["1010"],
+            "CurrencyCode": ["USD"],
+            "FormattedPrice": ["$10.10"]
+        }],
+        "LowestUsedPrice": [{
+            "Amount": ["925"],
+            "CurrencyCode": ["USD"],
+            "FormattedPrice": ["$9.25"]
+        }],
+        "TotalNew": ["45"],
+        "TotalUsed": ["7"],
+        "TotalCollectible": ["0"],
+        "TotalRefurbished": ["0"]
+    }],
+    "Offers": [{
+        "TotalOffers": ["2"],
+        "TotalOfferPages": ["1"],
+        "MoreOffersUrl": ["http://www.amazon.com/gp/offer-listing/B00HG30CD4%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00HG30CD4"],
+        "Offer": [{
+            "OfferAttributes": [{
+                "Condition": ["New"]
+            }],
+            "OfferListing": [{
+                "OfferListingId": ["%2BHLJ8pWDK2icZen0Mj7d99eLoOfytpst70YKUIEsqxgkKfZtXYLKtzbVINsn4UWv0IIDwClx3rayFZ%2Bxyb6OZfw2G1hcexUPc9K0C54%2B3HNDsZDpS2xJDvp%2FbdhBciLLXz6kAuKh9fwJ3pQfP5%2Fx2A%3D%3D"],
+                "Price": [{
+                    "Amount": ["1010"],
+                    "CurrencyCode": ["USD"],
+                    "FormattedPrice": ["$10.10"]
+                }],
+                "AmountSaved": [{
+                    "Amount": ["988"],
+                    "CurrencyCode": ["USD"],
+                    "FormattedPrice": ["$9.88"]
+                }],
+                "PercentageSaved": ["49"],
+                "Availability": ["Usually ships in 1-2 business days"],
+                "AvailabilityAttributes": [{
+                    "AvailabilityType": ["now"],
+                    "MinimumHours": ["24"],
+                    "MaximumHours": ["48"]
+                }],
+                "IsEligibleForSuperSaverShipping": ["0"],
+                "IsEligibleForPrime": ["0"]
+            }]
+        }, {
+            "OfferAttributes": [{
+                "Condition": ["Used"]
+            }],
+            "OfferListing": [{
+                "OfferListingId": ["%2BHLJ8pWDK2icZen0Mj7d99eLoOfytpstI3sf6TNbm%2FTxCs0TzAlaakmdM1j865%2FEXb%2F9MHfCSJcbDo3JtreIQbk1ckkr1l%2FtKLqTNDJ7le4G4s2MMIFrAps9jG9agSWbmCNkBwZFvUk6SF5D9qydGg%3D%3D"],
+                "Price": [{
+                    "Amount": ["925"],
+                    "CurrencyCode": ["USD"],
+                    "FormattedPrice": ["$9.25"]
+                }],
+                "AmountSaved": [{
+                    "Amount": ["1073"],
+                    "CurrencyCode": ["USD"],
+                    "FormattedPrice": ["$10.73"]
+                }],
+                "PercentageSaved": ["54"],
+                "Availability": ["Usually ships in 1-2 business days"],
+                "AvailabilityAttributes": [{
+                    "AvailabilityType": ["now"],
+                    "MinimumHours": ["24"],
+                    "MaximumHours": ["48"]
+                }],
+                "IsEligibleForSuperSaverShipping": ["0"],
+                "IsEligibleForPrime": ["0"]
+            }]
+        }]
+    }]
+}, {
+    "ASIN": ["B004HKIWYA"],
+    "DetailPageURL": ["http://www.amazon.com/Blues-Train-Memphis-All-Stars/dp/B004HKIWYA%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB004HKIWYA"],
+    "ItemLinks": [{
+        "ItemLink": [{
+            "Description": ["Technical Details"],
+            "URL": ["http://www.amazon.com/Blues-Train-Memphis-All-Stars/dp/tech-data/B004HKIWYA%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB004HKIWYA"]
+        }, {
+            "Description": ["Add To Baby Registry"],
+            "URL": ["http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB004HKIWYA%26SubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB004HKIWYA"]
+        }, {
+            "Description": ["Add To Wedding Registry"],
+            "URL": ["http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB004HKIWYA%26SubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB004HKIWYA"]
+        }, {
+            "Description": ["Add To Wishlist"],
+            "URL": ["http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB004HKIWYA%26SubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB004HKIWYA"]
+        }, {
+            "Description": ["Tell A Friend"],
+            "URL": ["http://www.amazon.com/gp/pdp/taf/B004HKIWYA%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB004HKIWYA"]
+        }, {
+            "Description": ["All Customer Reviews"],
+            "URL": ["http://www.amazon.com/review/product/B004HKIWYA%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB004HKIWYA"]
+        }, {
+            "Description": ["All Offers"],
+            "URL": ["http://www.amazon.com/gp/offer-listing/B004HKIWYA%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB004HKIWYA"]
+        }]
+    }],
+    "SmallImage": [{
+        "URL": ["http://ecx.images-amazon.com/images/I/517i2UrdbpL._SL75_.jpg"],
+        "Height": [{
+            "_": "75",
+            "$": {
+                "Units": "pixels"
+            }
+        }],
+        "Width": [{
+            "_": "75",
+            "$": {
+                "Units": "pixels"
+            }
+        }]
+    }],
+    "MediumImage": [{
+        "URL": ["http://ecx.images-amazon.com/images/I/517i2UrdbpL._SL160_.jpg"],
+        "Height": [{
+            "_": "160",
+            "$": {
+                "Units": "pixels"
+            }
+        }],
+        "Width": [{
+            "_": "160",
+            "$": {
+                "Units": "pixels"
+            }
+        }]
+    }],
+    "LargeImage": [{
+        "URL": ["http://ecx.images-amazon.com/images/I/517i2UrdbpL.jpg"],
+        "Height": [{
+            "_": "500",
+            "$": {
+                "Units": "pixels"
+            }
+        }],
+        "Width": [{
+            "_": "500",
+            "$": {
+                "Units": "pixels"
+            }
+        }]
+    }],
+    "ImageSets": [{
+        "ImageSet": [{
+            "$": {
+                "Category": "primary"
+            },
+            "SwatchImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/517i2UrdbpL._SL30_.jpg"],
+                "Height": [{
+                    "_": "30",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "30",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "SmallImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/517i2UrdbpL._SL75_.jpg"],
+                "Height": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "ThumbnailImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/517i2UrdbpL._SL75_.jpg"],
+                "Height": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "TinyImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/517i2UrdbpL._SL110_.jpg"],
+                "Height": [{
+                    "_": "110",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "110",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "MediumImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/517i2UrdbpL._SL160_.jpg"],
+                "Height": [{
+                    "_": "160",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "160",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "LargeImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/517i2UrdbpL.jpg"],
+                "Height": [{
+                    "_": "500",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "500",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }]
+        }]
+    }],
+    "ItemAttributes": [{
+        "Artist": ["Memphis All Stars"],
+        "Binding": ["Audio CD"],
+        "CatalogNumberList": [{
+            "CatalogNumberListElement": ["649454009322"]
+        }],
+        "EAN": ["0649454009322"],
+        "EANList": [{
+            "EANListElement": ["0649454009322"]
+        }],
+        "IsAdultProduct": ["0"],
+        "ItemDimensions": [{
+            "Height": [{
+                "_": "25",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }],
+            "Length": [{
+                "_": "550",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }],
+            "Weight": [{
+                "_": "16",
+                "$": {
+                    "Units": "hundredths-pounds"
+                }
+            }],
+            "Width": [{
+                "_": "550",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }]
+        }],
+        "Label": ["LocoBop"],
+        "Languages": [{
+            "Language": [{
+                "Name": ["English"],
+                "Type": ["Unknown"]
+            }]
+        }],
+        "Manufacturer": ["LocoBop"],
+        "MPN": ["BCM60075"],
+        "NumberOfDiscs": ["1"],
+        "PackageDimensions": [{
+            "Height": [{
+                "_": "54",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }],
+            "Length": [{
+                "_": "555",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }],
+            "Weight": [{
+                "_": "18",
+                "$": {
+                    "Units": "hundredths-pounds"
+                }
+            }],
+            "Width": [{
+                "_": "497",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }]
+        }],
+        "PartNumber": ["BCM60075"],
+        "ProductGroup": ["Music"],
+        "ProductTypeName": ["ABIS_MUSIC"],
+        "Publisher": ["LocoBop"],
+        "ReleaseDate": ["2010-12-30"],
+        "RunningTime": [{
+            "_": "43",
+            "$": {
+                "Units": "minutes"
+            }
+        }],
+        "Studio": ["LocoBop"],
+        "Title": ["Blues Train"],
+        "UPC": ["649454009322"],
+        "UPCList": [{
+            "UPCListElement": ["649454009322"]
+        }]
+    }],
+    "OfferSummary": [{
+        "LowestNewPrice": [{
+            "Amount": ["997"],
+            "CurrencyCode": ["USD"],
+            "FormattedPrice": ["$9.97"]
+        }],
+        "LowestUsedPrice": [{
+            "Amount": ["800"],
+            "CurrencyCode": ["USD"],
+            "FormattedPrice": ["$8.00"]
+        }],
+        "TotalNew": ["7"],
+        "TotalUsed": ["2"],
+        "TotalCollectible": ["0"],
+        "TotalRefurbished": ["0"]
+    }],
+    "Offers": [{
+        "TotalOffers": ["2"],
+        "TotalOfferPages": ["1"],
+        "MoreOffersUrl": ["http://www.amazon.com/gp/offer-listing/B004HKIWYA%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB004HKIWYA"],
+        "Offer": [{
+            "OfferAttributes": [{
+                "Condition": ["New"]
+            }],
+            "OfferListing": [{
+                "OfferListingId": ["dpkYVBBA%2FJILiYyXnsYSUT9w4TumaA1%2FSiJ%2BBwLr5JHJ2XuNF2v5ZKvPNqVfMCV%2FjCTlsEqOTSwKD6GzViy4mvVCPiptTXWIyJstKwIbskc6eMnGc2E0ZsdFZ7nLorQuQboiHyTN%2FKl5Ii3P5JuRTA%3D%3D"],
+                "Price": [{
+                    "Amount": ["997"],
+                    "CurrencyCode": ["USD"],
+                    "FormattedPrice": ["$9.97"]
+                }],
+                "Availability": ["Usually ships in 1-2 business days"],
+                "AvailabilityAttributes": [{
+                    "AvailabilityType": ["now"],
+                    "MinimumHours": ["24"],
+                    "MaximumHours": ["48"]
+                }],
+                "IsEligibleForSuperSaverShipping": ["0"],
+                "IsEligibleForPrime": ["0"]
+            }]
+        }, {
+            "OfferAttributes": [{
+                "Condition": ["Used"]
+            }],
+            "OfferListing": [{
+                "OfferListingId": ["dpkYVBBA%2FJILiYyXnsYSUT9w4TumaA1%2FM3H0a7oJZw7mIgWKpM9xt19duwU9FmAaBP9Z7i89%2Fa77pAXvHYqzaZeVbXiVPIrHdo1mWSRbTl6%2BwcxQ94lRqCB8yvBHUDiAhiiFr%2BMWY1%2Fac29aS8VRlHPcUp5n%2F5Ah"],
+                "Price": [{
+                    "Amount": ["800"],
+                    "CurrencyCode": ["USD"],
+                    "FormattedPrice": ["$8.00"]
+                }],
+                "Availability": ["Usually ships in 1-2 business days"],
+                "AvailabilityAttributes": [{
+                    "AvailabilityType": ["now"],
+                    "MinimumHours": ["24"],
+                    "MaximumHours": ["48"]
+                }],
+                "IsEligibleForSuperSaverShipping": ["0"],
+                "IsEligibleForPrime": ["0"]
+            }]
+        }]
+    }]
+}, {
+    "ASIN": ["B00SXR70C8"],
+    "DetailPageURL": ["http://www.amazon.com/Blue-Train-Blu-ray-Audio-Coltrane/dp/B00SXR70C8%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00SXR70C8"],
+    "ItemLinks": [{
+        "ItemLink": [{
+            "Description": ["Technical Details"],
+            "URL": ["http://www.amazon.com/Blue-Train-Blu-ray-Audio-Coltrane/dp/tech-data/B00SXR70C8%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00SXR70C8"]
+        }, {
+            "Description": ["Add To Baby Registry"],
+            "URL": ["http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00SXR70C8%26SubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00SXR70C8"]
+        }, {
+            "Description": ["Add To Wedding Registry"],
+            "URL": ["http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00SXR70C8%26SubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00SXR70C8"]
+        }, {
+            "Description": ["Add To Wishlist"],
+            "URL": ["http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00SXR70C8%26SubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00SXR70C8"]
+        }, {
+            "Description": ["Tell A Friend"],
+            "URL": ["http://www.amazon.com/gp/pdp/taf/B00SXR70C8%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00SXR70C8"]
+        }, {
+            "Description": ["All Customer Reviews"],
+            "URL": ["http://www.amazon.com/review/product/B00SXR70C8%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00SXR70C8"]
+        }, {
+            "Description": ["All Offers"],
+            "URL": ["http://www.amazon.com/gp/offer-listing/B00SXR70C8%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00SXR70C8"]
+        }]
+    }],
+    "SmallImage": [{
+        "URL": ["http://ecx.images-amazon.com/images/I/51Z2bVqwELL._SL75_.jpg"],
+        "Height": [{
+            "_": "75",
+            "$": {
+                "Units": "pixels"
+            }
+        }],
+        "Width": [{
+            "_": "75",
+            "$": {
+                "Units": "pixels"
+            }
+        }]
+    }],
+    "MediumImage": [{
+        "URL": ["http://ecx.images-amazon.com/images/I/51Z2bVqwELL._SL160_.jpg"],
+        "Height": [{
+            "_": "160",
+            "$": {
+                "Units": "pixels"
+            }
+        }],
+        "Width": [{
+            "_": "160",
+            "$": {
+                "Units": "pixels"
+            }
+        }]
+    }],
+    "LargeImage": [{
+        "URL": ["http://ecx.images-amazon.com/images/I/51Z2bVqwELL.jpg"],
+        "Height": [{
+            "_": "500",
+            "$": {
+                "Units": "pixels"
+            }
+        }],
+        "Width": [{
+            "_": "500",
+            "$": {
+                "Units": "pixels"
+            }
+        }]
+    }],
+    "ImageSets": [{
+        "ImageSet": [{
+            "$": {
+                "Category": "variant"
+            },
+            "SwatchImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/516oh14dHEL._SL30_.jpg"],
+                "Height": [{
+                    "_": "30",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "24",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "SmallImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/516oh14dHEL._SL75_.jpg"],
+                "Height": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "60",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "ThumbnailImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/516oh14dHEL._SL75_.jpg"],
+                "Height": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "60",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "TinyImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/516oh14dHEL._SL110_.jpg"],
+                "Height": [{
+                    "_": "110",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "87",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "MediumImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/516oh14dHEL._SL160_.jpg"],
+                "Height": [{
+                    "_": "160",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "127",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "LargeImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/516oh14dHEL.jpg"],
+                "Height": [{
+                    "_": "500",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "397",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "HiResImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/81EgbNT8g0L.jpg"],
+                "Height": [{
+                    "_": "1619",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "1284",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }]
+        }, {
+            "$": {
+                "Category": "primary"
+            },
+            "SwatchImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51Z2bVqwELL._SL30_.jpg"],
+                "Height": [{
+                    "_": "30",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "30",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "SmallImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51Z2bVqwELL._SL75_.jpg"],
+                "Height": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "ThumbnailImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51Z2bVqwELL._SL75_.jpg"],
+                "Height": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "TinyImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51Z2bVqwELL._SL110_.jpg"],
+                "Height": [{
+                    "_": "110",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "110",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "MediumImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51Z2bVqwELL._SL160_.jpg"],
+                "Height": [{
+                    "_": "160",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "160",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "LargeImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51Z2bVqwELL.jpg"],
+                "Height": [{
+                    "_": "500",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "500",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "HiResImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/71DUtMFiCPL.jpg"],
+                "Height": [{
+                    "_": "1400",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "1400",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }]
+        }]
+    }],
+    "ItemAttributes": [{
+        "Artist": ["John Coltrane"],
+        "AudienceRating": ["NR (Not Rated)"],
+        "Binding": ["Blu-ray Audio"],
+        "CatalogNumberList": [{
+            "CatalogNumberListElement": ["54717292"]
+        }],
+        "EAN": ["0602547172921"],
+        "EANList": [{
+            "EANListElement": ["0602547172921"]
+        }],
+        "ItemDimensions": [{
+            "Height": [{
+                "_": "50",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }],
+            "Length": [{
+                "_": "750",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }],
+            "Weight": [{
+                "_": "20",
+                "$": {
+                    "Units": "hundredths-pounds"
+                }
+            }],
+            "Width": [{
+                "_": "575",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }]
+        }],
+        "Label": ["Blue Note"],
+        "Languages": [{
+            "Language": [{
+                "Name": ["English"],
+                "Type": ["Original Language"]
+            }, {
+                "Name": ["English"],
+                "Type": ["Unknown"]
+            }]
+        }],
+        "Manufacturer": ["Blue Note"],
+        "NumberOfDiscs": ["1"],
+        "NumberOfItems": ["1"],
+        "PackageDimensions": [{
+            "Height": [{
+                "_": "40",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }],
+            "Length": [{
+                "_": "670",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }],
+            "Weight": [{
+                "_": "10",
+                "$": {
+                    "Units": "hundredths-pounds"
+                }
+            }],
+            "Width": [{
+                "_": "530",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }]
+        }],
+        "ProductGroup": ["Music"],
+        "ProductTypeName": ["ABIS_MUSIC"],
+        "Publisher": ["Blue Note"],
+        "ReleaseDate": ["2015-05-04"],
+        "Studio": ["Blue Note"],
+        "Title": ["Blue Train [Blu-ray Audio]"],
+        "UPC": ["602547172921"],
+        "UPCList": [{
+            "UPCListElement": ["602547172921"]
+        }]
+    }],
+    "OfferSummary": [{
+        "LowestNewPrice": [{
+            "Amount": ["1916"],
+            "CurrencyCode": ["USD"],
+            "FormattedPrice": ["$19.16"]
+        }],
+        "LowestUsedPrice": [{
+            "Amount": ["2633"],
+            "CurrencyCode": ["USD"],
+            "FormattedPrice": ["$26.33"]
+        }],
+        "TotalNew": ["26"],
+        "TotalUsed": ["2"],
+        "TotalCollectible": ["0"],
+        "TotalRefurbished": ["0"]
+    }],
+    "Offers": [{
+        "TotalOffers": ["2"],
+        "TotalOfferPages": ["1"],
+        "MoreOffersUrl": ["http://www.amazon.com/gp/offer-listing/B00SXR70C8%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00SXR70C8"],
+        "Offer": [{
+            "OfferAttributes": [{
+                "Condition": ["New"]
+            }],
+            "OfferListing": [{
+                "OfferListingId": ["dpkYVBBA%2FJILiYyXnsYSUTG0k7prVTeRPjFZpbbr4BtKPAqh7%2B3%2BwVmQSBCNHMh6wBQHwJ33t3YYrpP3%2FEN6bJyKTRfbF4cUGaIj1u%2FN2Wp5eBXESi62MgfH4LijU%2Fs9xsglWwmIbaVkMF0lboNW34rDgeqKHzbz"],
+                "Price": [{
+                    "Amount": ["1916"],
+                    "CurrencyCode": ["USD"],
+                    "FormattedPrice": ["$19.16"]
+                }],
+                "Availability": ["Usually ships in 1-2 business days"],
+                "AvailabilityAttributes": [{
+                    "AvailabilityType": ["now"],
+                    "MinimumHours": ["24"],
+                    "MaximumHours": ["48"]
+                }],
+                "IsEligibleForSuperSaverShipping": ["0"],
+                "IsEligibleForPrime": ["0"]
+            }]
+        }, {
+            "OfferAttributes": [{
+                "Condition": ["Used"]
+            }],
+            "OfferListing": [{
+                "OfferListingId": ["dpkYVBBA%2FJILiYyXnsYSUTG0k7prVTeRRT90fXRKjhlBYb0IV4u1Yp4nDiPpB3evYo%2FQ%2FF8rRAJKtJECQSBy2YNWq9etrr%2BdOsy7TnB3BgClJW6%2BfIPVA5PF7yKu%2BlXevGJzz818Ij4HYsKIorz%2F6eJqmfdlT%2FFk"],
+                "Price": [{
+                    "Amount": ["2633"],
+                    "CurrencyCode": ["USD"],
+                    "FormattedPrice": ["$26.33"]
+                }],
+                "Availability": ["Usually ships in 1-2 business days"],
+                "AvailabilityAttributes": [{
+                    "AvailabilityType": ["now"],
+                    "MinimumHours": ["24"],
+                    "MaximumHours": ["48"]
+                }],
+                "IsEligibleForSuperSaverShipping": ["0"],
+                "IsEligibleForPrime": ["0"]
+            }]
+        }]
+    }]
+}, {
+    "ASIN": ["B00LSYYH8I"],
+    "DetailPageURL": ["http://www.amazon.com/Blue-Train-JOHN-COLTRANE/dp/B00LSYYH8I%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00LSYYH8I"],
+    "ItemLinks": [{
+        "ItemLink": [{
+            "Description": ["Technical Details"],
+            "URL": ["http://www.amazon.com/Blue-Train-JOHN-COLTRANE/dp/tech-data/B00LSYYH8I%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00LSYYH8I"]
+        }, {
+            "Description": ["Add To Baby Registry"],
+            "URL": ["http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00LSYYH8I%26SubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00LSYYH8I"]
+        }, {
+            "Description": ["Add To Wedding Registry"],
+            "URL": ["http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00LSYYH8I%26SubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00LSYYH8I"]
+        }, {
+            "Description": ["Add To Wishlist"],
+            "URL": ["http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00LSYYH8I%26SubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00LSYYH8I"]
+        }, {
+            "Description": ["Tell A Friend"],
+            "URL": ["http://www.amazon.com/gp/pdp/taf/B00LSYYH8I%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00LSYYH8I"]
+        }, {
+            "Description": ["All Customer Reviews"],
+            "URL": ["http://www.amazon.com/review/product/B00LSYYH8I%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00LSYYH8I"]
+        }, {
+            "Description": ["All Offers"],
+            "URL": ["http://www.amazon.com/gp/offer-listing/B00LSYYH8I%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00LSYYH8I"]
+        }]
+    }],
+    "SmallImage": [{
+        "URL": ["http://ecx.images-amazon.com/images/I/51bJiAcrILL._SL75_.jpg"],
+        "Height": [{
+            "_": "75",
+            "$": {
+                "Units": "pixels"
+            }
+        }],
+        "Width": [{
+            "_": "75",
+            "$": {
+                "Units": "pixels"
+            }
+        }]
+    }],
+    "MediumImage": [{
+        "URL": ["http://ecx.images-amazon.com/images/I/51bJiAcrILL._SL160_.jpg"],
+        "Height": [{
+            "_": "160",
+            "$": {
+                "Units": "pixels"
+            }
+        }],
+        "Width": [{
+            "_": "160",
+            "$": {
+                "Units": "pixels"
+            }
+        }]
+    }],
+    "LargeImage": [{
+        "URL": ["http://ecx.images-amazon.com/images/I/51bJiAcrILL.jpg"],
+        "Height": [{
+            "_": "500",
+            "$": {
+                "Units": "pixels"
+            }
+        }],
+        "Width": [{
+            "_": "500",
+            "$": {
+                "Units": "pixels"
+            }
+        }]
+    }],
+    "ImageSets": [{
+        "ImageSet": [{
+            "$": {
+                "Category": "primary"
+            },
+            "SwatchImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51bJiAcrILL._SL30_.jpg"],
+                "Height": [{
+                    "_": "30",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "30",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "SmallImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51bJiAcrILL._SL75_.jpg"],
+                "Height": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "ThumbnailImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51bJiAcrILL._SL75_.jpg"],
+                "Height": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "TinyImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51bJiAcrILL._SL110_.jpg"],
+                "Height": [{
+                    "_": "110",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "110",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "MediumImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51bJiAcrILL._SL160_.jpg"],
+                "Height": [{
+                    "_": "160",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "160",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "LargeImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51bJiAcrILL.jpg"],
+                "Height": [{
+                    "_": "500",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "500",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "HiResImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/71PhrV41Z7L.jpg"],
+                "Height": [{
+                    "_": "1701",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "1701",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }]
+        }]
+    }],
+    "ItemAttributes": [{
+        "Artist": ["JOHN COLTRANE"],
+        "Binding": ["Audio CD"],
+        "EAN": ["4988005843784"],
+        "EANList": [{
+            "EANListElement": ["4988005843784"]
+        }],
+        "Format": ["Import"],
+        "IsAdultProduct": ["0"],
+        "ItemDimensions": [{
+            "Height": [{
+                "_": "55",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }],
+            "Length": [{
+                "_": "488",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }],
+            "Weight": [{
+                "_": "20",
+                "$": {
+                    "Units": "hundredths-pounds"
+                }
+            }],
+            "Width": [{
+                "_": "563",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }]
+        }],
+        "Label": ["Imports"],
+        "Languages": [{
+            "Language": [{
+                "Name": ["Japanese"],
+                "Type": ["Published"]
+            }, {
+                "Name": ["Japanese"],
+                "Type": ["Unknown"]
+            }]
+        }],
+        "ListPrice": [{
+            "Amount": ["1699"],
+            "CurrencyCode": ["USD"],
+            "FormattedPrice": ["$16.99"]
+        }],
+        "Manufacturer": ["Imports"],
+        "NumberOfDiscs": ["1"],
+        "NumberOfItems": ["1"],
+        "PackageDimensions": [{
+            "Height": [{
+                "_": "39",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }],
+            "Length": [{
+                "_": "559",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }],
+            "Weight": [{
+                "_": "13",
+                "$": {
+                    "Units": "hundredths-pounds"
+                }
+            }],
+            "Width": [{
+                "_": "488",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }]
+        }],
+        "ProductGroup": ["Music"],
+        "ProductTypeName": ["ABIS_MUSIC"],
+        "Publisher": ["Imports"],
+        "ReleaseDate": ["2014-10-21"],
+        "SeikodoProductCode": ["UCCU-99009"],
+        "Studio": ["Imports"],
+        "Title": ["Blue Train"]
+    }],
+    "OfferSummary": [{
+        "LowestNewPrice": [{
+            "Amount": ["882"],
+            "CurrencyCode": ["USD"],
+            "FormattedPrice": ["$8.82"]
+        }],
+        "LowestUsedPrice": [{
+            "Amount": ["881"],
+            "CurrencyCode": ["USD"],
+            "FormattedPrice": ["$8.81"]
+        }],
+        "TotalNew": ["41"],
+        "TotalUsed": ["8"],
+        "TotalCollectible": ["0"],
+        "TotalRefurbished": ["0"]
+    }],
+    "Offers": [{
+        "TotalOffers": ["2"],
+        "TotalOfferPages": ["1"],
+        "MoreOffersUrl": ["http://www.amazon.com/gp/offer-listing/B00LSYYH8I%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00LSYYH8I"],
+        "Offer": [{
+            "OfferAttributes": [{
+                "Condition": ["New"]
+            }],
+            "OfferListing": [{
+                "OfferListingId": ["KvOJ1EALS7aX2%2BssXa%2BFM631cq1DzcZqHyJOYrOivUQjVNgcNjOFbRgMqTl6bLwlOLlV53w3LOlzoIW02xQDnYVhsCMSgkMZr1j9vZT07YYDwwbrAR%2FhihK4QBpUWl%2Bji%2FjKVW6CKwCEPMZxwW%2FP6zrVsNd1A74o"],
+                "Price": [{
+                    "Amount": ["882"],
+                    "CurrencyCode": ["USD"],
+                    "FormattedPrice": ["$8.82"]
+                }],
+                "AmountSaved": [{
+                    "Amount": ["817"],
+                    "CurrencyCode": ["USD"],
+                    "FormattedPrice": ["$8.17"]
+                }],
+                "PercentageSaved": ["48"],
+                "Availability": ["Usually ships in 1-2 business days"],
+                "AvailabilityAttributes": [{
+                    "AvailabilityType": ["now"],
+                    "MinimumHours": ["24"],
+                    "MaximumHours": ["48"]
+                }],
+                "IsEligibleForSuperSaverShipping": ["0"],
+                "IsEligibleForPrime": ["0"]
+            }]
+        }, {
+            "OfferAttributes": [{
+                "Condition": ["Used"]
+            }],
+            "OfferListing": [{
+                "OfferListingId": ["KvOJ1EALS7aX2%2BssXa%2BFM631cq1DzcZqWq4ConA9aJNrKswxxD0uIwFf8BppcmzCsvqFKSsQGC7PiOlAjTl%2BTZVCsxYX5CtluNv6NHHa%2FNI6dCOepPK3PEx%2FoTnLejeKgFOwr8KXc17Gi%2BhKLZ5XKQ%3D%3D"],
+                "Price": [{
+                    "Amount": ["881"],
+                    "CurrencyCode": ["USD"],
+                    "FormattedPrice": ["$8.81"]
+                }],
+                "AmountSaved": [{
+                    "Amount": ["818"],
+                    "CurrencyCode": ["USD"],
+                    "FormattedPrice": ["$8.18"]
+                }],
+                "PercentageSaved": ["48"],
+                "Availability": ["Usually ships in 1-2 business days"],
+                "AvailabilityAttributes": [{
+                    "AvailabilityType": ["now"],
+                    "MinimumHours": ["24"],
+                    "MaximumHours": ["48"]
+                }],
+                "IsEligibleForSuperSaverShipping": ["0"],
+                "IsEligibleForPrime": ["0"]
+            }]
+        }]
+    }]
+}, {
+    "ASIN": ["B00HQFA480"],
+    "DetailPageURL": ["http://www.amazon.com/Blue-Train-JOHN-COLTRANE/dp/B00HQFA480%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00HQFA480"],
+    "ItemLinks": [{
+        "ItemLink": [{
+            "Description": ["Technical Details"],
+            "URL": ["http://www.amazon.com/Blue-Train-JOHN-COLTRANE/dp/tech-data/B00HQFA480%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00HQFA480"]
+        }, {
+            "Description": ["Add To Baby Registry"],
+            "URL": ["http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00HQFA480%26SubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00HQFA480"]
+        }, {
+            "Description": ["Add To Wedding Registry"],
+            "URL": ["http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00HQFA480%26SubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00HQFA480"]
+        }, {
+            "Description": ["Add To Wishlist"],
+            "URL": ["http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00HQFA480%26SubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00HQFA480"]
+        }, {
+            "Description": ["Tell A Friend"],
+            "URL": ["http://www.amazon.com/gp/pdp/taf/B00HQFA480%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00HQFA480"]
+        }, {
+            "Description": ["All Customer Reviews"],
+            "URL": ["http://www.amazon.com/review/product/B00HQFA480%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00HQFA480"]
+        }, {
+            "Description": ["All Offers"],
+            "URL": ["http://www.amazon.com/gp/offer-listing/B00HQFA480%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00HQFA480"]
+        }]
+    }],
+    "SmallImage": [{
+        "URL": ["http://ecx.images-amazon.com/images/I/51-UaatDH6L._SL75_.jpg"],
+        "Height": [{
+            "_": "71",
+            "$": {
+                "Units": "pixels"
+            }
+        }],
+        "Width": [{
+            "_": "75",
+            "$": {
+                "Units": "pixels"
+            }
+        }]
+    }],
+    "MediumImage": [{
+        "URL": ["http://ecx.images-amazon.com/images/I/51-UaatDH6L._SL160_.jpg"],
+        "Height": [{
+            "_": "152",
+            "$": {
+                "Units": "pixels"
+            }
+        }],
+        "Width": [{
+            "_": "160",
+            "$": {
+                "Units": "pixels"
+            }
+        }]
+    }],
+    "LargeImage": [{
+        "URL": ["http://ecx.images-amazon.com/images/I/51-UaatDH6L.jpg"],
+        "Height": [{
+            "_": "476",
+            "$": {
+                "Units": "pixels"
+            }
+        }],
+        "Width": [{
+            "_": "500",
+            "$": {
+                "Units": "pixels"
+            }
+        }]
+    }],
+    "ImageSets": [{
+        "ImageSet": [{
+            "$": {
+                "Category": "variant"
+            },
+            "SwatchImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/61ycz0ZWE%2BL._SL30_.jpg"],
+                "Height": [{
+                    "_": "30",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "30",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "SmallImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/61ycz0ZWE%2BL._SL75_.jpg"],
+                "Height": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "ThumbnailImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/61ycz0ZWE%2BL._SL75_.jpg"],
+                "Height": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "TinyImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/61ycz0ZWE%2BL._SL110_.jpg"],
+                "Height": [{
+                    "_": "110",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "110",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "MediumImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/61ycz0ZWE%2BL._SL160_.jpg"],
+                "Height": [{
+                    "_": "160",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "159",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "LargeImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/61ycz0ZWE%2BL.jpg"],
+                "Height": [{
+                    "_": "500",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "498",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "HiResImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/91DnvTQ2kRL.jpg"],
+                "Height": [{
+                    "_": "2122",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "2112",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }]
+        }, {
+            "$": {
+                "Category": "primary"
+            },
+            "SwatchImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51-UaatDH6L._SL30_.jpg"],
+                "Height": [{
+                    "_": "29",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "30",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "SmallImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51-UaatDH6L._SL75_.jpg"],
+                "Height": [{
+                    "_": "71",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "ThumbnailImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51-UaatDH6L._SL75_.jpg"],
+                "Height": [{
+                    "_": "71",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "TinyImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51-UaatDH6L._SL110_.jpg"],
+                "Height": [{
+                    "_": "105",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "110",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "MediumImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51-UaatDH6L._SL160_.jpg"],
+                "Height": [{
+                    "_": "152",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "160",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "LargeImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51-UaatDH6L.jpg"],
+                "Height": [{
+                    "_": "476",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "500",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "HiResImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/81yq1KsQirL.jpg"],
+                "Height": [{
+                    "_": "1989",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "2088",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }]
+        }]
+    }],
+    "ItemAttributes": [{
+        "Artist": ["JOHN COLTRANE"],
+        "Binding": ["Vinyl"],
+        "CatalogNumberList": [{
+            "CatalogNumberListElement": ["MSCA1577.1", "1577", "MMBLP-1577"]
+        }],
+        "EAN": ["0693692999693"],
+        "EANList": [{
+            "EANListElement": ["0693692999693"]
+        }],
+        "ItemDimensions": [{
+            "Height": [{
+                "_": "1220",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }],
+            "Length": [{
+                "_": "1220",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }],
+            "Weight": [{
+                "_": "64",
+                "$": {
+                    "Units": "hundredths-pounds"
+                }
+            }],
+            "Width": [{
+                "_": "20",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }]
+        }],
+        "Label": ["Music Matters (Bluen"],
+        "Languages": [{
+            "Language": [{
+                "Name": ["English"],
+                "Type": ["Unknown"]
+            }]
+        }],
+        "ListPrice": [{
+            "Amount": ["5898"],
+            "CurrencyCode": ["USD"],
+            "FormattedPrice": ["$58.98"]
+        }],
+        "Manufacturer": ["Music Matters (Bluen"],
+        "NumberOfDiscs": ["1"],
+        "NumberOfItems": ["1"],
+        "PackageDimensions": [{
+            "Height": [{
+                "_": "102",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }],
+            "Length": [{
+                "_": "1472",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }],
+            "Weight": [{
+                "_": "150",
+                "$": {
+                    "Units": "hundredths-pounds"
+                }
+            }],
+            "Width": [{
+                "_": "1276",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }]
+        }],
+        "ProductGroup": ["Music"],
+        "ProductTypeName": ["ABIS_MUSIC"],
+        "Publisher": ["Music Matters (Bluen"],
+        "ReleaseDate": ["2014-02-18"],
+        "Studio": ["Music Matters (Bluen"],
+        "Title": ["Blue Train"],
+        "UPC": ["693692999693"],
+        "UPCList": [{
+            "UPCListElement": ["693692999693"]
+        }]
+    }],
+    "OfferSummary": [{
+        "LowestNewPrice": [{
+            "Amount": ["4597"],
+            "CurrencyCode": ["USD"],
+            "FormattedPrice": ["$45.97"]
+        }],
+        "LowestUsedPrice": [{
+            "Amount": ["2795"],
+            "CurrencyCode": ["USD"],
+            "FormattedPrice": ["$27.95"]
+        }],
+        "TotalNew": ["3"],
+        "TotalUsed": ["1"],
+        "TotalCollectible": ["0"],
+        "TotalRefurbished": ["0"]
+    }],
+    "Offers": [{
+        "TotalOffers": ["2"],
+        "TotalOfferPages": ["1"],
+        "MoreOffersUrl": ["http://www.amazon.com/gp/offer-listing/B00HQFA480%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00HQFA480"],
+        "Offer": [{
+            "OfferAttributes": [{
+                "Condition": ["New"]
+            }],
+            "OfferListing": [{
+                "OfferListingId": ["8wj%2FNEMn2GPKEPaTwlCVl63pDDh6YNRDFlatamd2r%2BLyh5fFjgUOOw0r1YhF8pXAmLSYt8nC2NWHnAbblXGyw17Bpa54NFpq2%2FtB5%2BHqzPmjc7b5OvfmvuimwBLf5lVCIEB7P28G4lnKGt8OAoLLjCBpoUnuuS0c"],
+                "Price": [{
+                    "Amount": ["4597"],
+                    "CurrencyCode": ["USD"],
+                    "FormattedPrice": ["$45.97"]
+                }],
+                "AmountSaved": [{
+                    "Amount": ["1301"],
+                    "CurrencyCode": ["USD"],
+                    "FormattedPrice": ["$13.01"]
+                }],
+                "PercentageSaved": ["22"],
+                "Availability": ["Usually ships in 1-2 business days"],
+                "AvailabilityAttributes": [{
+                    "AvailabilityType": ["now"],
+                    "MinimumHours": ["24"],
+                    "MaximumHours": ["48"]
+                }],
+                "IsEligibleForSuperSaverShipping": ["0"],
+                "IsEligibleForPrime": ["0"]
+            }]
+        }, {
+            "OfferAttributes": [{
+                "Condition": ["Used"]
+            }],
+            "OfferListing": [{
+                "OfferListingId": ["8wj%2FNEMn2GPKEPaTwlCVl63pDDh6YNRDUXGY6XBxtRuOc7wclAw9vEC2sIQ3IdkVorS9zM06B87WFmBm59hdseo2IjreL46zqH3cNrnA7BWJAnzOKWW6WSRdUyQ%2Fs9%2FitbVzeP4biG5uJ9pb6tJVsw%3D%3D"],
+                "Price": [{
+                    "Amount": ["2795"],
+                    "CurrencyCode": ["USD"],
+                    "FormattedPrice": ["$27.95"]
+                }],
+                "AmountSaved": [{
+                    "Amount": ["3103"],
+                    "CurrencyCode": ["USD"],
+                    "FormattedPrice": ["$31.03"]
+                }],
+                "PercentageSaved": ["53"],
+                "Availability": ["Usually ships in 1-2 business days"],
+                "AvailabilityAttributes": [{
+                    "AvailabilityType": ["now"],
+                    "MinimumHours": ["24"],
+                    "MaximumHours": ["48"]
+                }],
+                "IsEligibleForSuperSaverShipping": ["0"],
+                "IsEligibleForPrime": ["0"]
+            }]
+        }]
+    }]
+}, {
+    "ASIN": ["B000P6FZJ0"],
+    "DetailPageURL": ["http://www.amazon.com/Blue-Train-John-Coltrane/dp/B000P6FZJ0%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB000P6FZJ0"],
+    "ItemLinks": [{
+        "ItemLink": [{
+            "Description": ["Technical Details"],
+            "URL": ["http://www.amazon.com/Blue-Train-John-Coltrane/dp/tech-data/B000P6FZJ0%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB000P6FZJ0"]
+        }, {
+            "Description": ["Add To Baby Registry"],
+            "URL": ["http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB000P6FZJ0%26SubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB000P6FZJ0"]
+        }, {
+            "Description": ["Add To Wedding Registry"],
+            "URL": ["http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB000P6FZJ0%26SubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB000P6FZJ0"]
+        }, {
+            "Description": ["Add To Wishlist"],
+            "URL": ["http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB000P6FZJ0%26SubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB000P6FZJ0"]
+        }, {
+            "Description": ["Tell A Friend"],
+            "URL": ["http://www.amazon.com/gp/pdp/taf/B000P6FZJ0%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB000P6FZJ0"]
+        }, {
+            "Description": ["All Customer Reviews"],
+            "URL": ["http://www.amazon.com/review/product/B000P6FZJ0%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB000P6FZJ0"]
+        }, {
+            "Description": ["All Offers"],
+            "URL": ["http://www.amazon.com/gp/offer-listing/B000P6FZJ0%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB000P6FZJ0"]
+        }]
+    }],
+    "SmallImage": [{
+        "URL": ["http://ecx.images-amazon.com/images/I/51ZG0WfgjdL._SL75_.jpg"],
+        "Height": [{
+            "_": "74",
+            "$": {
+                "Units": "pixels"
+            }
+        }],
+        "Width": [{
+            "_": "75",
+            "$": {
+                "Units": "pixels"
+            }
+        }]
+    }],
+    "MediumImage": [{
+        "URL": ["http://ecx.images-amazon.com/images/I/51ZG0WfgjdL._SL160_.jpg"],
+        "Height": [{
+            "_": "158",
+            "$": {
+                "Units": "pixels"
+            }
+        }],
+        "Width": [{
+            "_": "160",
+            "$": {
+                "Units": "pixels"
+            }
+        }]
+    }],
+    "LargeImage": [{
+        "URL": ["http://ecx.images-amazon.com/images/I/51ZG0WfgjdL.jpg"],
+        "Height": [{
+            "_": "493",
+            "$": {
+                "Units": "pixels"
+            }
+        }],
+        "Width": [{
+            "_": "500",
+            "$": {
+                "Units": "pixels"
+            }
+        }]
+    }],
+    "ImageSets": [{
+        "ImageSet": [{
+            "$": {
+                "Category": "variant"
+            },
+            "SwatchImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/518XUiof-OL._SL30_.jpg"],
+                "Height": [{
+                    "_": "26",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "30",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "SmallImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/518XUiof-OL._SL75_.jpg"],
+                "Height": [{
+                    "_": "66",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "ThumbnailImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/518XUiof-OL._SL75_.jpg"],
+                "Height": [{
+                    "_": "66",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "TinyImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/518XUiof-OL._SL110_.jpg"],
+                "Height": [{
+                    "_": "97",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "110",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "MediumImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/518XUiof-OL._SL160_.jpg"],
+                "Height": [{
+                    "_": "141",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "160",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "LargeImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/518XUiof-OL.jpg"],
+                "Height": [{
+                    "_": "440",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "500",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }]
+        }, {
+            "$": {
+                "Category": "primary"
+            },
+            "SwatchImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51ZG0WfgjdL._SL30_.jpg"],
+                "Height": [{
+                    "_": "30",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "30",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "SmallImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51ZG0WfgjdL._SL75_.jpg"],
+                "Height": [{
+                    "_": "74",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "ThumbnailImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51ZG0WfgjdL._SL75_.jpg"],
+                "Height": [{
+                    "_": "74",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "TinyImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51ZG0WfgjdL._SL110_.jpg"],
+                "Height": [{
+                    "_": "108",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "110",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "MediumImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51ZG0WfgjdL._SL160_.jpg"],
+                "Height": [{
+                    "_": "158",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "160",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "LargeImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51ZG0WfgjdL.jpg"],
+                "Height": [{
+                    "_": "493",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "500",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }]
+        }]
+    }],
+    "ItemAttributes": [{
+        "Binding": ["Audio CD"],
+        "Creator": [{
+            "_": "John Coltrane",
+            "$": {
+                "Role": "Performer"
+            }
+        }],
+        "Label": ["Blue Note"],
+        "Manufacturer": ["Blue Note"],
+        "PackageDimensions": [{
+            "Height": [{
+                "_": "54",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }],
+            "Length": [{
+                "_": "555",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }],
+            "Weight": [{
+                "_": "18",
+                "$": {
+                    "Units": "hundredths-pounds"
+                }
+            }],
+            "Width": [{
+                "_": "497",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }]
+        }],
+        "ProductGroup": ["Music"],
+        "ProductTypeName": ["MUSIC_POPULAR"],
+        "Publisher": ["Blue Note"],
+        "Studio": ["Blue Note"],
+        "Title": ["Blue Train"]
+    }],
+    "OfferSummary": [{
+        "LowestNewPrice": [{
+            "Amount": ["1999"],
+            "CurrencyCode": ["USD"],
+            "FormattedPrice": ["$19.99"]
+        }],
+        "LowestUsedPrice": [{
+            "Amount": ["349"],
+            "CurrencyCode": ["USD"],
+            "FormattedPrice": ["$3.49"]
+        }],
+        "TotalNew": ["2"],
+        "TotalUsed": ["5"],
+        "TotalCollectible": ["0"],
+        "TotalRefurbished": ["0"]
+    }],
+    "Offers": [{
+        "TotalOffers": ["2"],
+        "TotalOfferPages": ["1"],
+        "MoreOffersUrl": ["http://www.amazon.com/gp/offer-listing/B000P6FZJ0%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB000P6FZJ0"],
+        "Offer": [{
+            "OfferAttributes": [{
+                "Condition": ["New"]
+            }],
+            "OfferListing": [{
+                "OfferListingId": ["dpkYVBBA%2FJILiYyXnsYSUZxx9fHhkugG0Rjcw5dSjirPmKe%2BzkbOutjwXlGpXJecHXo5L7dlrTJ2SMhtVcnwRrusrZGhTBYjqOMDHVAGkCKO7bFD58X9LBb891HTcbq7Tgg6I%2FSYg9na6MknWOYhs3Md0z6Kfg1t"],
+                "Price": [{
+                    "Amount": ["1999"],
+                    "CurrencyCode": ["USD"],
+                    "FormattedPrice": ["$19.99"]
+                }],
+                "Availability": ["Usually ships in 1-2 business days"],
+                "AvailabilityAttributes": [{
+                    "AvailabilityType": ["now"],
+                    "MinimumHours": ["24"],
+                    "MaximumHours": ["48"]
+                }],
+                "IsEligibleForSuperSaverShipping": ["0"],
+                "IsEligibleForPrime": ["0"]
+            }]
+        }, {
+            "OfferAttributes": [{
+                "Condition": ["Used"]
+            }],
+            "OfferListing": [{
+                "OfferListingId": ["dpkYVBBA%2FJILiYyXnsYSUZxx9fHhkugGRadSf3AqQKi%2BmWpkfx6hkljo2SBo4FQ%2FZE5zZ3iZhXLBM8Rq9SVg89dO%2FxL2Ewv9K8CRSX9ApjtKI8x3tv2W35EVHpnqCM0TXs7FziLoM5ZWxkNDLNjggpOTQJc1gjXv"],
+                "Price": [{
+                    "Amount": ["349"],
+                    "CurrencyCode": ["USD"],
+                    "FormattedPrice": ["$3.49"]
+                }],
+                "Availability": ["Usually ships in 1-2 business days"],
+                "AvailabilityAttributes": [{
+                    "AvailabilityType": ["now"],
+                    "MinimumHours": ["24"],
+                    "MaximumHours": ["48"]
+                }],
+                "IsEligibleForSuperSaverShipping": ["0"],
+                "IsEligibleForPrime": ["0"]
+            }]
+        }]
+    }]
+}, {
+    "ASIN": ["B00MWUIGNO"],
+    "DetailPageURL": ["http://www.amazon.com/All-Aboard-The-Blue-Train/dp/B00MWUIGNO%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00MWUIGNO"],
+    "ItemLinks": [{
+        "ItemLink": [{
+            "Description": ["Technical Details"],
+            "URL": ["http://www.amazon.com/All-Aboard-The-Blue-Train/dp/tech-data/B00MWUIGNO%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00MWUIGNO"]
+        }, {
+            "Description": ["Add To Baby Registry"],
+            "URL": ["http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00MWUIGNO%26SubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00MWUIGNO"]
+        }, {
+            "Description": ["Add To Wedding Registry"],
+            "URL": ["http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00MWUIGNO%26SubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00MWUIGNO"]
+        }, {
+            "Description": ["Add To Wishlist"],
+            "URL": ["http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00MWUIGNO%26SubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00MWUIGNO"]
+        }, {
+            "Description": ["Tell A Friend"],
+            "URL": ["http://www.amazon.com/gp/pdp/taf/B00MWUIGNO%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00MWUIGNO"]
+        }, {
+            "Description": ["All Customer Reviews"],
+            "URL": ["http://www.amazon.com/review/product/B00MWUIGNO%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00MWUIGNO"]
+        }, {
+            "Description": ["All Offers"],
+            "URL": ["http://www.amazon.com/gp/offer-listing/B00MWUIGNO%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00MWUIGNO"]
+        }]
+    }],
+    "SmallImage": [{
+        "URL": ["http://ecx.images-amazon.com/images/I/51MmAyUW8lL._SL75_.jpg"],
+        "Height": [{
+            "_": "75",
+            "$": {
+                "Units": "pixels"
+            }
+        }],
+        "Width": [{
+            "_": "57",
+            "$": {
+                "Units": "pixels"
+            }
+        }]
+    }],
+    "MediumImage": [{
+        "URL": ["http://ecx.images-amazon.com/images/I/51MmAyUW8lL._SL160_.jpg"],
+        "Height": [{
+            "_": "160",
+            "$": {
+                "Units": "pixels"
+            }
+        }],
+        "Width": [{
+            "_": "121",
+            "$": {
+                "Units": "pixels"
+            }
+        }]
+    }],
+    "LargeImage": [{
+        "URL": ["http://ecx.images-amazon.com/images/I/51MmAyUW8lL.jpg"],
+        "Height": [{
+            "_": "500",
+            "$": {
+                "Units": "pixels"
+            }
+        }],
+        "Width": [{
+            "_": "378",
+            "$": {
+                "Units": "pixels"
+            }
+        }]
+    }],
+    "ImageSets": [{
+        "ImageSet": [{
+            "$": {
+                "Category": "variant"
+            },
+            "SwatchImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/511o2F3yrEL._SL30_.jpg"],
+                "Height": [{
+                    "_": "26",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "30",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "SmallImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/511o2F3yrEL._SL75_.jpg"],
+                "Height": [{
+                    "_": "64",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "ThumbnailImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/511o2F3yrEL._SL75_.jpg"],
+                "Height": [{
+                    "_": "64",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "TinyImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/511o2F3yrEL._SL110_.jpg"],
+                "Height": [{
+                    "_": "94",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "110",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "MediumImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/511o2F3yrEL._SL160_.jpg"],
+                "Height": [{
+                    "_": "136",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "160",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "LargeImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/511o2F3yrEL.jpg"],
+                "Height": [{
+                    "_": "426",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "500",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "HiResImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/710oV3BguZL.jpg"],
+                "Height": [{
+                    "_": "928",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "1088",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }]
+        }, {
+            "$": {
+                "Category": "primary"
+            },
+            "SwatchImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51MmAyUW8lL._SL30_.jpg"],
+                "Height": [{
+                    "_": "30",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "23",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "SmallImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51MmAyUW8lL._SL75_.jpg"],
+                "Height": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "57",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "ThumbnailImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51MmAyUW8lL._SL75_.jpg"],
+                "Height": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "57",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "TinyImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51MmAyUW8lL._SL110_.jpg"],
+                "Height": [{
+                    "_": "110",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "83",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "MediumImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51MmAyUW8lL._SL160_.jpg"],
+                "Height": [{
+                    "_": "160",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "121",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "LargeImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51MmAyUW8lL.jpg"],
+                "Height": [{
+                    "_": "500",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "378",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }]
+        }]
+    }],
+    "ItemAttributes": [{
+        "Artist": ["Johnny Cash"],
+        "Binding": ["Audio CD"],
+        "Brand": ["CASH,JOHNNY"],
+        "CatalogNumberList": [{
+            "CatalogNumberListElement": ["SRVNL-00467796"]
+        }],
+        "EAN": ["5050457145828"],
+        "EANList": [{
+            "EANListElement": ["5050457145828"]
+        }],
+        "Format": ["Import"],
+        "Label": ["Hallmark"],
+        "ListPrice": [{
+            "Amount": ["499"],
+            "CurrencyCode": ["USD"],
+            "FormattedPrice": ["$4.99"]
+        }],
+        "Manufacturer": ["Hallmark"],
+        "MPN": ["PW 714582"],
+        "NumberOfDiscs": ["1"],
+        "NumberOfItems": ["1"],
+        "PackageDimensions": [{
+            "Height": [{
+                "_": "54",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }],
+            "Length": [{
+                "_": "555",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }],
+            "Weight": [{
+                "_": "18",
+                "$": {
+                    "Units": "hundredths-pounds"
+                }
+            }],
+            "Width": [{
+                "_": "497",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }]
+        }],
+        "PackageQuantity": ["1"],
+        "PartNumber": ["PW 714582"],
+        "ProductGroup": ["Music"],
+        "ProductTypeName": ["ABIS_MUSIC"],
+        "Publisher": ["Hallmark"],
+        "ReleaseDate": ["2014-09-22"],
+        "Studio": ["Hallmark"],
+        "Title": ["All Aboard The Blue Train"]
+    }],
+    "OfferSummary": [{
+        "LowestNewPrice": [{
+            "Amount": ["155"],
+            "CurrencyCode": ["USD"],
+            "FormattedPrice": ["$1.55"]
+        }],
+        "LowestUsedPrice": [{
+            "Amount": ["388"],
+            "CurrencyCode": ["USD"],
+            "FormattedPrice": ["$3.88"]
+        }],
+        "TotalNew": ["29"],
+        "TotalUsed": ["2"],
+        "TotalCollectible": ["0"],
+        "TotalRefurbished": ["0"]
+    }],
+    "Offers": [{
+        "TotalOffers": ["2"],
+        "TotalOfferPages": ["1"],
+        "MoreOffersUrl": ["http://www.amazon.com/gp/offer-listing/B00MWUIGNO%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00MWUIGNO"],
+        "Offer": [{
+            "OfferAttributes": [{
+                "Condition": ["New"]
+            }],
+            "OfferListing": [{
+                "OfferListingId": ["dpkYVBBA%2FJILiYyXnsYSUeXQU10proqLdyE6yLK4ZxSMFRr5q33uMHB0CIMT0zRmfrSq1yulVwMdLrGXiFhj56jd108wuCXFzfpkSvXzHeSpC20rCQ8m0VwP9uk4M%2BSWHdhUnHSlhXVWZwVXGPU8AA6%2F5hh5meem"],
+                "Price": [{
+                    "Amount": ["155"],
+                    "CurrencyCode": ["USD"],
+                    "FormattedPrice": ["$1.55"]
+                }],
+                "AmountSaved": [{
+                    "Amount": ["344"],
+                    "CurrencyCode": ["USD"],
+                    "FormattedPrice": ["$3.44"]
+                }],
+                "PercentageSaved": ["69"],
+                "Availability": ["Usually ships in 1-2 business days"],
+                "AvailabilityAttributes": [{
+                    "AvailabilityType": ["now"],
+                    "MinimumHours": ["24"],
+                    "MaximumHours": ["48"]
+                }],
+                "IsEligibleForSuperSaverShipping": ["0"],
+                "IsEligibleForPrime": ["0"]
+            }]
+        }, {
+            "OfferAttributes": [{
+                "Condition": ["Used"]
+            }],
+            "OfferListing": [{
+                "OfferListingId": ["dpkYVBBA%2FJILiYyXnsYSUeXQU10proqLnq%2FTUCQmLw1yW9mkXqq3pK0TTcAvgruEWxRE27MHs3KQ3Q%2BoMitzdFqbOP6O7NkecgrYeNuFAeAifQe102a6IEQ%2BjT3GsNGjGsFYsWrh%2BdoerkmVL0oelHZ5I%2BQAs21J"],
+                "Price": [{
+                    "Amount": ["388"],
+                    "CurrencyCode": ["USD"],
+                    "FormattedPrice": ["$3.88"]
+                }],
+                "AmountSaved": [{
+                    "Amount": ["111"],
+                    "CurrencyCode": ["USD"],
+                    "FormattedPrice": ["$1.11"]
+                }],
+                "PercentageSaved": ["22"],
+                "Availability": ["Usually ships in 1-2 business days"],
+                "AvailabilityAttributes": [{
+                    "AvailabilityType": ["now"],
+                    "MinimumHours": ["24"],
+                    "MaximumHours": ["48"]
+                }],
+                "IsEligibleForSuperSaverShipping": ["0"],
+                "IsEligibleForPrime": ["0"]
+            }]
+        }]
+    }]
+}, {
+    "ASIN": ["B009NT0GG2"],
+    "DetailPageURL": ["http://www.amazon.com/Blue-Train-John-Coltrane/dp/B009NT0GG2%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB009NT0GG2"],
+    "ItemLinks": [{
+        "ItemLink": [{
+            "Description": ["Technical Details"],
+            "URL": ["http://www.amazon.com/Blue-Train-John-Coltrane/dp/tech-data/B009NT0GG2%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB009NT0GG2"]
+        }, {
+            "Description": ["Add To Baby Registry"],
+            "URL": ["http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB009NT0GG2%26SubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB009NT0GG2"]
+        }, {
+            "Description": ["Add To Wedding Registry"],
+            "URL": ["http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB009NT0GG2%26SubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB009NT0GG2"]
+        }, {
+            "Description": ["Add To Wishlist"],
+            "URL": ["http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB009NT0GG2%26SubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB009NT0GG2"]
+        }, {
+            "Description": ["Tell A Friend"],
+            "URL": ["http://www.amazon.com/gp/pdp/taf/B009NT0GG2%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB009NT0GG2"]
+        }, {
+            "Description": ["All Customer Reviews"],
+            "URL": ["http://www.amazon.com/review/product/B009NT0GG2%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB009NT0GG2"]
+        }, {
+            "Description": ["All Offers"],
+            "URL": ["http://www.amazon.com/gp/offer-listing/B009NT0GG2%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB009NT0GG2"]
+        }]
+    }],
+    "SmallImage": [{
+        "URL": ["http://ecx.images-amazon.com/images/I/51MII0t5dQL._SL75_.jpg"],
+        "Height": [{
+            "_": "75",
+            "$": {
+                "Units": "pixels"
+            }
+        }],
+        "Width": [{
+            "_": "75",
+            "$": {
+                "Units": "pixels"
+            }
+        }]
+    }],
+    "MediumImage": [{
+        "URL": ["http://ecx.images-amazon.com/images/I/51MII0t5dQL._SL160_.jpg"],
+        "Height": [{
+            "_": "160",
+            "$": {
+                "Units": "pixels"
+            }
+        }],
+        "Width": [{
+            "_": "160",
+            "$": {
+                "Units": "pixels"
+            }
+        }]
+    }],
+    "LargeImage": [{
+        "URL": ["http://ecx.images-amazon.com/images/I/51MII0t5dQL.jpg"],
+        "Height": [{
+            "_": "499",
+            "$": {
+                "Units": "pixels"
+            }
+        }],
+        "Width": [{
+            "_": "500",
+            "$": {
+                "Units": "pixels"
+            }
+        }]
+    }],
+    "ImageSets": [{
+        "ImageSet": [{
+            "$": {
+                "Category": "primary"
+            },
+            "SwatchImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51MII0t5dQL._SL30_.jpg"],
+                "Height": [{
+                    "_": "30",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "30",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "SmallImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51MII0t5dQL._SL75_.jpg"],
+                "Height": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "ThumbnailImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51MII0t5dQL._SL75_.jpg"],
+                "Height": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "TinyImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51MII0t5dQL._SL110_.jpg"],
+                "Height": [{
+                    "_": "110",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "110",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "MediumImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51MII0t5dQL._SL160_.jpg"],
+                "Height": [{
+                    "_": "160",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "160",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "LargeImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/51MII0t5dQL.jpg"],
+                "Height": [{
+                    "_": "499",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "500",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "HiResImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/81RhrwbQ0xL.jpg"],
+                "Height": [{
+                    "_": "1790",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "1792",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }]
+        }]
+    }],
+    "ItemAttributes": [{
+        "Artist": ["John Coltrane"],
+        "Binding": ["Vinyl"],
+        "CatalogNumberList": [{
+            "CatalogNumberListElement": ["709", "DOL709.1", "PRD 71541", "DOL709", "889397557096", "OODAMI13710"]
+        }],
+        "EAN": ["0889397270919"],
+        "EANList": [{
+            "EANListElement": ["0889397270919"]
+        }],
+        "Edition": ["limited_edition"],
+        "Format": ["Limited Edition", "Import"],
+        "Label": ["Dol"],
+        "Languages": [{
+            "Language": [{
+                "Name": ["English"],
+                "Type": ["Unknown"]
+            }]
+        }],
+        "Manufacturer": ["Dol"],
+        "MPN": ["DOL709.1"],
+        "NumberOfDiscs": ["1"],
+        "PackageDimensions": [{
+            "Height": [{
+                "_": "110",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }],
+            "Length": [{
+                "_": "1480",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }],
+            "Weight": [{
+                "_": "95",
+                "$": {
+                    "Units": "hundredths-pounds"
+                }
+            }],
+            "Width": [{
+                "_": "1300",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }]
+        }],
+        "PartNumber": ["DOL709.1"],
+        "ProductGroup": ["Music"],
+        "ProductTypeName": ["ABIS_MUSIC"],
+        "Publisher": ["Dol"],
+        "ReleaseDate": ["2013-08-06"],
+        "Studio": ["Dol"],
+        "Title": ["Blue Train"],
+        "UPC": ["889397270919"],
+        "UPCList": [{
+            "UPCListElement": ["889397270919"]
+        }]
+    }],
+    "OfferSummary": [{
+        "LowestNewPrice": [{
+            "Amount": ["2200"],
+            "CurrencyCode": ["USD"],
+            "FormattedPrice": ["$22.00"]
+        }],
+        "TotalNew": ["1"],
+        "TotalUsed": ["0"],
+        "TotalCollectible": ["0"],
+        "TotalRefurbished": ["0"]
+    }],
+    "Offers": [{
+        "TotalOffers": ["1"],
+        "TotalOfferPages": ["1"],
+        "MoreOffersUrl": ["http://www.amazon.com/gp/offer-listing/B009NT0GG2%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB009NT0GG2"],
+        "Offer": [{
+            "OfferAttributes": [{
+                "Condition": ["New"]
+            }],
+            "OfferListing": [{
+                "OfferListingId": ["%2BHLJ8pWDK2icZen0Mj7d91PyIF3MtDczPs5g2uuUn3Tqk7EnbaGFfySFLmVISVUnn%2BKq%2Babe5%2B3DmXandu7VLu7etbxAeGH3%2BGuJ6K1F2Q99bTmjTWWzfw0IAtsj1AEftvhUDYFaXBHn5BbRxmDCg1OTiyhx7fZ%2B"],
+                "Price": [{
+                    "Amount": ["2200"],
+                    "CurrencyCode": ["USD"],
+                    "FormattedPrice": ["$22.00"]
+                }],
+                "Availability": ["Usually ships in 1-2 business days"],
+                "AvailabilityAttributes": [{
+                    "AvailabilityType": ["now"],
+                    "MinimumHours": ["24"],
+                    "MaximumHours": ["48"]
+                }],
+                "IsEligibleForSuperSaverShipping": ["0"],
+                "IsEligibleForPrime": ["0"]
+            }]
+        }]
+    }]
+}, {
+    "ASIN": ["B01CFHAZ82"],
+    "DetailPageURL": ["http://www.amazon.com/Trains-Telegraph-Wires-Trembling-Stars/dp/B01CFHAZ82%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB01CFHAZ82"],
+    "ItemLinks": [{
+        "ItemLink": [{
+            "Description": ["Technical Details"],
+            "URL": ["http://www.amazon.com/Trains-Telegraph-Wires-Trembling-Stars/dp/tech-data/B01CFHAZ82%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB01CFHAZ82"]
+        }, {
+            "Description": ["Add To Baby Registry"],
+            "URL": ["http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB01CFHAZ82%26SubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB01CFHAZ82"]
+        }, {
+            "Description": ["Add To Wedding Registry"],
+            "URL": ["http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB01CFHAZ82%26SubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB01CFHAZ82"]
+        }, {
+            "Description": ["Add To Wishlist"],
+            "URL": ["http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB01CFHAZ82%26SubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB01CFHAZ82"]
+        }, {
+            "Description": ["Tell A Friend"],
+            "URL": ["http://www.amazon.com/gp/pdp/taf/B01CFHAZ82%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB01CFHAZ82"]
+        }, {
+            "Description": ["All Customer Reviews"],
+            "URL": ["http://www.amazon.com/review/product/B01CFHAZ82%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB01CFHAZ82"]
+        }, {
+            "Description": ["All Offers"],
+            "URL": ["http://www.amazon.com/gp/offer-listing/B01CFHAZ82%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB01CFHAZ82"]
+        }]
+    }],
+    "SmallImage": [{
+        "URL": ["http://ecx.images-amazon.com/images/I/41CoIIux2tL._SL75_.jpg"],
+        "Height": [{
+            "_": "75",
+            "$": {
+                "Units": "pixels"
+            }
+        }],
+        "Width": [{
+            "_": "75",
+            "$": {
+                "Units": "pixels"
+            }
+        }]
+    }],
+    "MediumImage": [{
+        "URL": ["http://ecx.images-amazon.com/images/I/41CoIIux2tL._SL160_.jpg"],
+        "Height": [{
+            "_": "160",
+            "$": {
+                "Units": "pixels"
+            }
+        }],
+        "Width": [{
+            "_": "160",
+            "$": {
+                "Units": "pixels"
+            }
+        }]
+    }],
+    "LargeImage": [{
+        "URL": ["http://ecx.images-amazon.com/images/I/41CoIIux2tL.jpg"],
+        "Height": [{
+            "_": "500",
+            "$": {
+                "Units": "pixels"
+            }
+        }],
+        "Width": [{
+            "_": "500",
+            "$": {
+                "Units": "pixels"
+            }
+        }]
+    }],
+    "ImageSets": [{
+        "ImageSet": [{
+            "$": {
+                "Category": "primary"
+            },
+            "SwatchImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/41CoIIux2tL._SL30_.jpg"],
+                "Height": [{
+                    "_": "30",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "30",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "SmallImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/41CoIIux2tL._SL75_.jpg"],
+                "Height": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "ThumbnailImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/41CoIIux2tL._SL75_.jpg"],
+                "Height": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "TinyImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/41CoIIux2tL._SL110_.jpg"],
+                "Height": [{
+                    "_": "110",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "110",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "MediumImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/41CoIIux2tL._SL160_.jpg"],
+                "Height": [{
+                    "_": "160",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "160",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "LargeImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/41CoIIux2tL.jpg"],
+                "Height": [{
+                    "_": "500",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "500",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }],
+            "HiResImage": [{
+                "URL": ["http://ecx.images-amazon.com/images/I/512qRvXggiL.jpg"],
+                "Height": [{
+                    "_": "1000",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }],
+                "Width": [{
+                    "_": "1000",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }]
+            }]
+        }]
+    }],
+    "ItemAttributes": [{
+        "Artist": ["Trembling Blue Stars"],
+        "Binding": ["Vinyl"],
+        "Brand": ["TREMBLING BLUE STARS"],
+        "CatalogNumberList": [{
+            "CatalogNumberListElement": ["ER25009LP", "25009"]
+        }],
+        "EAN": ["8428846251097"],
+        "EANList": [{
+            "EANListElement": ["8428846251097"]
+        }],
+        "Edition": ["limited_edition"],
+        "Format": ["Limited Edition"],
+        "ItemDimensions": [{
+            "Height": [{
+                "_": "100",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }],
+            "Length": [{
+                "_": "1200",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }],
+            "Weight": [{
+                "_": "50",
+                "$": {
+                    "Units": "hundredths-pounds"
+                }
+            }],
+            "Width": [{
+                "_": "1260",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }]
+        }],
+        "Label": ["Elefant Spain"],
+        "ListPrice": [{
+            "Amount": ["4198"],
+            "CurrencyCode": ["USD"],
+            "FormattedPrice": ["$41.98"]
+        }],
+        "Manufacturer": ["Elefant Spain"],
+        "NumberOfDiscs": ["1"],
+        "NumberOfItems": ["1"],
+        "PackageDimensions": [{
+            "Height": [{
+                "_": "87",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }],
+            "Length": [{
+                "_": "1559",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }],
+            "Weight": [{
+                "_": "132",
+                "$": {
+                    "Units": "hundredths-pounds"
+                }
+            }],
+            "Width": [{
+                "_": "1307",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }]
+        }],
+        "ProductGroup": ["Music"],
+        "ProductTypeName": ["ABIS_MUSIC"],
+        "Publisher": ["Elefant Spain"],
+        "ReleaseDate": ["2016-04-01"],
+        "Studio": ["Elefant Spain"],
+        "Title": ["Fast Trains & Telegraph Wires"]
+    }],
+    "OfferSummary": [{
+        "LowestNewPrice": [{
+            "Amount": ["2709"],
+            "CurrencyCode": ["USD"],
+            "FormattedPrice": ["$27.09"]
+        }],
+        "TotalNew": ["9"],
+        "TotalUsed": ["0"],
+        "TotalCollectible": ["0"],
+        "TotalRefurbished": ["0"]
+    }],
+    "Offers": [{
+        "TotalOffers": ["1"],
+        "TotalOfferPages": ["1"],
+        "MoreOffersUrl": ["http://www.amazon.com/gp/offer-listing/B01CFHAZ82%3FSubscriptionId%3DAKIAI3GXCLDBKAVY3ROQ%26tag%3Dlevinylecolle-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB01CFHAZ82"],
+        "Offer": [{
+            "OfferAttributes": [{
+                "Condition": ["New"]
+            }],
+            "OfferListing": [{
+                "OfferListingId": ["dpkYVBBA%2FJJUbfn%2FNtUPptMjRyaq28waiHv%2Fz5XuM4NUqTyR3hjhjJcwo9U8%2FOR%2BMui5rrWxrDLDnoyDq2eG3Wosx3SBH8hc6ufmOdaD7ZpGoEc9sJ1S07%2Bnjgf%2F2RWdpwITGSFyGiKCXkO7bnkU5mB2b5pCFJlj"],
+                "Price": [{
+                    "Amount": ["2709"],
+                    "CurrencyCode": ["USD"],
+                    "FormattedPrice": ["$27.09"]
+                }],
+                "AmountSaved": [{
+                    "Amount": ["1489"],
+                    "CurrencyCode": ["USD"],
+                    "FormattedPrice": ["$14.89"]
+                }],
+                "PercentageSaved": ["35"],
+                "Availability": ["Usually ships in 1-2 business days"],
+                "AvailabilityAttributes": [{
+                    "AvailabilityType": ["now"],
+                    "MinimumHours": ["24"],
+                    "MaximumHours": ["48"]
+                }],
+                "IsEligibleForSuperSaverShipping": ["0"],
+                "IsEligibleForPrime": ["0"]
+            }]
+        }]
+    }]
+}]

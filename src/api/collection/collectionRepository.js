@@ -1,19 +1,15 @@
 import queriesFactory from '../lib/db/queries/index';
 
 export default client => {
-    const tableName = 'product';
+    const tableName = 'collection';
     const exposedFields = [
         'id',
-        'reference',
-        'width',
-        'height',
-        'price',
-        'thumbnail',
-        'image',
-        'description',
-        'stock',
+        'name',
+        `COALESCE((SELECT ARRAY_TO_JSON(ARRAY_AGG(rows)) FROM (
+            SELECT * FROM album
+            WHERE album.collection_id = collection.id
+        ) rows), '[]'::json) AS albums`,
     ];
-
     const queries = queriesFactory(client, tableName, exposedFields);
 
     return {
