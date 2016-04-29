@@ -1,24 +1,13 @@
 import React, { PropTypes, Component } from 'react';
 import { bindActionCreators } from 'redux';
 import { connect } from 'react-redux';
-import { Link } from 'react-router';
 import { RouteTransition } from 'react-router-transition';
 import HelmetTitle from './HelmetTitle';
-import { signOut as signOutActions } from '../user/userActions';
-import ShoppingCart from '../shoppingcart/ShoppingCart';
 
 export class App extends Component {
-    componentWillReceiveProps(nextProps) {
-        const { user, signOut } = nextProps;
-        const currentTime = (new Date()).getTime();
-
-        if (user.token && user.expires && user.expires < currentTime) {
-            signOut();
-        }
-    }
 
     render() {
-        const { children, location, user, signOut } = this.props;
+        const { children, location } = this.props;
 
         return (
             <div className="app container-fluid">
@@ -53,19 +42,15 @@ App.propTypes = {
     children: PropTypes.node,
     history: PropTypes.object.isRequired,
     location: PropTypes.object.isRequired,
-    signOut: PropTypes.func.isRequired,
-    user: PropTypes.object.isRequired,
 };
 
 function mapStateToProps(state) {
-    return {
-        user: state.user,
-    };
+    return {};
 }
 
 function mapDispatchToProps(dispatch) {
     return bindActionCreators({
-        signOut: signOutActions.request,
+
     }, dispatch);
 }
 

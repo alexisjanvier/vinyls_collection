@@ -152,8 +152,7 @@ if (env !== 'development') {
     app.use(compress());
 }
 
-app.use(koaMount('/api', require('./api')));
-app.use(koaMount('/admin', require('./admin')));
+app.use(koaMount('/', require('./api')));
 
 if (!module.parent || module.parent.filename.indexOf('api/index.js') !== -1) {
     app.listen(port);
