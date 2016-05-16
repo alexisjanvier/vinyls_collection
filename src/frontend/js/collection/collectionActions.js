@@ -11,7 +11,7 @@ export function getCollectionsFetch() {
             options: {
                 method: 'get',
             },
-            url: `${API_URL}/collections`, // eslint-disable-line no-undef
+            url: `${API_URL}/api/collections`, // eslint-disable-line no-undef
         },
         meta: {
             rejectedAction: replace('/'),

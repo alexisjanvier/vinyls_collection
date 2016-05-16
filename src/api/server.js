@@ -14,6 +14,7 @@ const env = process.env.NODE_ENV || 'development';
 const port = config.apps.api.port;
 
 const app = koa();
+
 const appLogger = logger(config.apps.api.logs.app);
 const httpLogger = logger(config.apps.api.logs.http);
 
