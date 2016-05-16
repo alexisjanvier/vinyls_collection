@@ -1,12 +1,17 @@
 var apiPort = process.env.NODE_PORT || 3000; // eslint-disable-line no-var
 var apiUrl = 'http://localhost:' + apiPort; // eslint-disable-line no-var
-var frontendUrl = 'http://localhost:8080'; // eslint-disable-line no-var
+var frontendUrl = 'https://d1f32d9f.ngrok.io'; //'http://localhost:8080'; // eslint-disable-line no-var
 
 module.exports = {
     appName: 'Vinyl collections',
+    amazon: {
+        AWS_TAG: 'levinylecolle-20', // alexisjanvier-21
+        AWS_ID: 'AKIAI3GXCLDBKAVY3ROQ',
+        AWS_SECRET: '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',
+    },
     apps: {
         api: {
-            allowOrigin: [frontendUrl],
+            allowOrigin: [frontendUrl, 'http://d1f32d9f.ngrok.io'],
             cookies: {
                 secure: false,
                 secureProxy: false,
@@ -16,11 +21,11 @@ module.exports = {
             },
             db: {
                 driver: 'pg',
-                host: 'DB_HOST',
+                host: 'b2d',
                 port: 5432,
-                user: 'DB_USER',
-                password: 'DB_PASSWORD',
-                database: 'DB_NAME',
+                user: 'postgres',
+                password: undefined,
+                database: 'vinylecollection',
             },
             logs: {
                 app: { Console: { timestamp: true, colorize: true, level: 'error' } },
@@ -61,11 +66,11 @@ module.exports = {
             },
         },
         frontend: {
-            api_url: 'http://localhost:3000',
+            api_url: 'https://92097846.ngrok.io/api',
             enableDevTools: true,
         },
         admin: {
-            api_url: 'http://localhost:3000',
+            api_url: 'https://92097846.ngrok.io/api',
         },
     },
     babel_ignore: /node_modules\/(?!admin-config|fakerest)/,

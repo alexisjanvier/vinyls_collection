@@ -28,10 +28,8 @@ export default (fetch) => ({ dispatch, getState }) => next => async (action) => 
         };
 
         const { url, options } = payload;
-        console.log('OK JE FETCH avec ' + type);
 
         try {
-            console.log('TRY');
             const data = await fetch(url, {
                 ...options,
                 headers,
@@ -45,7 +43,6 @@ export default (fetch) => ({ dispatch, getState }) => next => async (action) => 
                 dispatch(meta.fulfilledAction);
             }
         } catch (error) {
-            console.log('CATCH');
             dispatch({
                 payload: error,
                 type: `${type}_REJECTED`,

@@ -2,8 +2,8 @@
     "apps": [
         {
             "env": {
-                "NODE_ENV": "test",
-                "NODE_PORT": 3010
+                "NODE_ENV": "production",
+                "NODE_PORT": 3000
             },
             "exec_mode": "fork",
             "name": "bpm_api-test",
@@ -12,12 +12,12 @@
         {
             "args": [
                 "./build/frontend",
-                "-p 8081",
+                "-p 8080",
                 "--silent"
             ],
             "env": {
-                "NODE_ENV": "test",
-                "NODE_PORT": 3020
+                "NODE_ENV": "production",
+                "NODE_PORT": 8080
             },
             "exec_mode": "fork",
             "name": "bpm_frontend-test",
