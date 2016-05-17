@@ -11,16 +11,16 @@ export class App extends Component {
         const { children } = this.props;
 
         return (
-            <div className="app container-fluid">
+            <div className="app container">
                 <HelmetTitle />
                 <div className="row">
-                    <nav className="navbar navbar-fixed-top navbar-dark bg-primary">
-                        <a className="navbar-brand" href="#">Vinyls collections</a>
+                    <nav className="navbar navbar-fixed-top navbar-dark bg-inverse">
+                        <a className="navbar-brand" href="#">Vinyl collections</a>
                     </nav>
                 </div>
                 <div className="row">
-                    <div className="col-xs-12 col-md-10 col-lg-9">
-                        <div style={{ position: 'absolute', width: '100%' }}>
+                    <div className="col-xs-12">
+                        <div>
                             {children === null ?
                                 <CollectionsList />
                             : children}

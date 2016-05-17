@@ -15,7 +15,7 @@ export function albumFormSubmitFetch({ collectionId, albumTitle }) {
             url: `${API_URL}/add-album`, // eslint-disable-line no-undef
         },
         meta: {
-            fulfilledAction: replace('/'),
+            fulfilledAction: replace(`/collection/${collectionId}`),
         },
     };
 }
